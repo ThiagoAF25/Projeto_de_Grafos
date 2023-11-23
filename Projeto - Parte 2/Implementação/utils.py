@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 def lerCSV():
-  tabela = pd.read_csv("voos - Página1.csv")
+  tabela = pd.read_csv("voos.csv")
   #CRIANDO TUPLAS COM SIGLA,NOME_AEROPORTO
   sigla_saida = tabela["Saida Sigla"]
   aeroporto_saida = tabela["Saida Nome Aeroporto"]
@@ -71,26 +71,32 @@ def leituraTXT():
         "airlines": linha[2][1].strip().split(", ")
       }
       Grafo.insereA(linha[0],linha[1],dict)
+    for i in range(n):
+      Grafo.bloqueios[i] = int(arquivo.readline())
   return tipo, Grafo
 
 def menu():
   g1 =GrafoND(0,{})
   resp = 0
   tipo = 0
-  while(resp != 10):
+  while(resp != 15):
     print('\n\n')
-    if (tipo != 0) : 
-      print("Tipo do grafo lido: {}".format(tipo))
-    print("1 - Ler dados do arquivo grafo.txt")
-    print("2 - Gravar dados no arquivo grafo.txt;")
-    print("3 - Inserir vértice;")
-    print("4 - Inserir aresta")
-    print("5 - Remove vértice")
-    print("6 - Remove aresta")
-    print("7 - Mostrar conteúdo do arquivo")
-    print("8 - Mostrar grafo")
-    print("9 - Conexidade do grafo")
-    print("10 - Encerrar a aplicação.")
+    print("\n-------------- GRAFO PRINCIPAIS ROTAS AEREAS INTERNACIONAIS --------------\n")
+    print("1 - Ler dados do arquivo grafo.txt .")
+    print("2 - Gravar dados no arquivo grafo.txt .")
+    print("3 - Inserir vértice.")
+    print("4 - Inserir aresta.")
+    print("5 - Remove vértice.")
+    print("6 - Remove aresta.")
+    print("7 - Mostrar conteúdo do arquivo.")
+    print("8 - Mostrar grafo.")
+    print("9 - Conexidade do grafo.")
+    print("10 - Caminho Minimo por Dijkstra.")
+    print("11 - Adicionar Bloqueio.")
+    print("12 - Remover Bloqueio.")
+    print("13 - Verificar Grau do vertices.")
+    print("14 - Coloracao por Classe dos vertices.")
+    print("15 - Encerrar a aplicação.")
     resp = int(input("/> ").strip())
 
     match resp:
@@ -138,5 +144,14 @@ def menu():
         else:
           print("Desconexo")
       case 10:
+        g1.dijkstra("GRU")
+      case 11:
+        g1.addBloqueio(input("Sigla do aeroporto a ser bloqueado:"))
+      case 12:
+        g1.removeBloqueio(input("Sigla do aeroporto a ser desbloqueado: "))
+      case 13:
+          g1.ConexoesAeroportos()
+      case 14:
+          g1.coloracaoClasse()
+      case 15:
         continue
-        

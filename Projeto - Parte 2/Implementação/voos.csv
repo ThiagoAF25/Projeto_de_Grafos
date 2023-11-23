@@ -1,0 +1,658 @@
+Saida Sigla,Saida Nome Aeroporto,Chegada,Chegada Nome Aeroporto,Distancia (Km),Airline,ModelosAvioes
+SGN,Tan Son Nhat International Airport,DXB,Dubai International Airport,5625,Emirates,77W-B77W
+SGN,Tan Son Nhat International Airport,SFO,San Francisco International Airport,12613,Vietnam Airlines,359-A359
+SGN,Tan Son Nhat International Airport,IST,Istanbul Airport,8220,Turkish Airlines,359-333-A359
+SGN,Tan Son Nhat International Airport,BKK,Bangkok Suvarnabhumi Airport,717,Bamboo Airways - VietJet Air - Vietnam Airlines - Vietravel Airlines - Thai VietJet Air - Thai Smile,32S-A40-320-321-A320-A321-A20N-A21N
+SGN,Tan Son Nhat International Airport,SIN,Singapore Changi Airport,1094,Asiana Airlines-Bamboo Airlines-Singapore Airlines-Scoot-VietJet Air-Vietnam Airlines-Pacific Airlines,74F-B74F-32Q-32N-320-321-A20N-A21N-A320-A321-359-A359
+SGN,Tan Son Nhat International Airport,DOH,Hamad International Airport,6001,Qatar Airways,77W-77X-B77L-B77W-359-A359
+SGN,Tan Son Nhat International Airport,MNL,Ninoy Aquino International Airport,1613,Cebu Pacific-Philippine Airlines,32Q-A21N-A321-320-A320-321
+SGN,Tan Son Nhat International Airport,HND,Tokyo Haneda Airport,4329,Jet Linx Aviation-All Nippon Airways-VietJet Air,788-789-B788-B789-321-A21N
+SGN,Tan Son Nhat International Airport,CGK,Soekarno–Hatta International Airport,1886,VietJet Air-Vietnam Airlines,320-321-A320-A321
+SGN,Tan Son Nhat International Airport,DEL,Indira Gandhi International Airport,3655,VietJet Air - Vietnam Airlines,330-321-A333-A21N-A321
+SGN,Tan Son Nhat International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,3741,VietJet Air-Vietnam Airlines,330-321-A333-A21N
+SGN,Tan Son Nhat International Airport,FRA,Frankfurt Airport,9668,Bamboo Airways-Vietnam Airlines,787-B789
+SGN,Tan Son Nhat International Airport,CDG,Charles de Gaulle Airport,10116,Vietnam Airlines-Air France,359-A359-772-B772
+SGN,Tan Son Nhat International Airport,SYD,Sydney Airport,6854,Jetstar-Bamboo Airways-VietJet Air-Vietnam Airlines,330-A333-359-A359-787-788-B788-B789
+SGN,Tan Son Nhat International Airport,LHR,Heathrow Airport,10231,Vietnam Airlines,787-B789
+SGN,Tan Son Nhat International Airport,LGW,London Gatwick Airport,10225,Bamboo Airways,787-B790
+ATL,Hartsfield–Jackson Atlanta International Airport,BOS,Logan International Airport,1523,JetBlue Airways-Delta Air Lines-Spirit Airlines,A20N-A21N-32B-32N-32Q-75W-E90-223-321-A321
+ATL,Hartsfield–Jackson Atlanta International Airport,CLT,Charlotte Douglas International Airport,365,American Airlines-Delta Air Lines-Lion Air,A320-320-A319-319-CR9-CRJ9-B712-717-E55P
+ATL,Hartsfield–Jackson Atlanta International Airport,DEN,Denver International Airport,1929,Delta Air Lines-Frontier-United Airlines-Southwest Airlines,A321-32B-321-32Q-739-73J-A320-320-738-73W-B738-7M8-73H-B38M
+ATL,Hartsfield–Jackson Atlanta International Airport,DFW,Dallas Fort Worth International Airport,1176,Delta Air Lines-American Airlines-Korean Air-Spirit Airlines-China Airlines-Frontier-Qatar Airways,A321-321-32B-738-B738-74N-A20N-32N-320-73H-74Y-32Q-B77L-77X
+ATL,Hartsfield–Jackson Atlanta International Airport,EWR,Newark Liberty International Airport,1201,Spirit Airlines-Delta Air Lines-United Airlines-Delta Air Lines,32A-73H-739-B738-738-A319-319-B739-739-320-7M8-73J-A320-320-B712-717-73J-73W-7M9-B38M-A20N-32N
+ATL,Hartsfield–Jackson Atlanta International Airport,FLL,Fort Lauderdale–Hollywood International Airport,937,Delta Air Lines-Spirit Airlines-Southwest Airlines-Frontier-Sun Country Airlines,320-757-32N-A320-32A-B737-73W-B752-75W-757-75D-B753-75T-753-A20N-32Q-A321-32B-738-7M8
+ATL,Hartsfield–Jackson Atlanta International Airport,IAH,George Bush Intercontinental Airport,1109,Spirit Airlines-Delta Air Lines-Frontier-United Airlines,32A-32N-320-B737-7M8-73G-A319-319-32B-321-A321-A20N-32Q-B38M-E7W
+ATL,Hartsfield–Jackson Atlanta International Airport,JFK,John F. Kennedy International Airport,1223,JetBlue Airways-Delta Air Lines-Korean Air,E90-A320-320-A321-32Q-B77L-E190-B739-73J-739-B752-75W-76W-B763-32B-321-757
+ATL,Hartsfield–Jackson Atlanta International Airport,LAS,Harry Reid International Airport,2808,Delta Air Lines-Spirit Airlines-Southwest Airlines-Frontier,A321-321-32B-73H-7M8-B38M-B738-32N-A20N-A319-319-73W
+ATL,Hartsfield–Jackson Atlanta International Airport,LAX,Los Angeles International Airport,3129,Delta Air Lines-American Airlines-Spirit Airlines-Southwest Airlines,B739-A359-359-739-B752-32B-757-321-75W-A321-32Q-B753-75T-753-76W-32N-32A-319-A320-7M8-73W
+ATL,Hartsfield–Jackson Atlanta International Airport,LGA,LaGuardia Airport,1226,Delta Air Lines-Southwest Airlines-JetBlue Airways-Frontier,A321-32B-321-B738-738-73W-73H-320-A21N-32N-32Q-B38M-7M8
+ATL,Hartsfield–Jackson Atlanta International Airport,MCO,Orlando International Airport,651,Delta Air Lines-Frontier-Southwest Airlines-Spirit Airlines,B752-75W-757-B763-76W-321-A20N-B738-73H-73W-75T-753-B753-75D-A320-32N-32Q-32A-319-A319-B737-7M8
+ATL,Hartsfield–Jackson Atlanta International Airport,MIA,Miami International Airport,960,Frontier-American Airlines-Air Canada-Delta Air Lines-Frontier-Spirit Airlines-Southwest Airlines,A20N-32Q-32N-B738-738-A319-319-B38M-73H-E75L-E75-76F-B752-75D-757-75W-32N-32A-321-A320-73W-7M8
+ATL,Hartsfield–Jackson Atlanta International Airport,MSP,Minneapolis/St Paul International Airport,1461,Delta Air Lines-Spirit Airlines,A20N-32N-75W-75D-757-B739-739-73J-B752-752-333-A321-32B-321-A359-A320-32A
+ATL,Hartsfield–Jackson Atlanta International Airport,ORD,O'Hare International Airport,977,Korean Air-Spirit Airlines-Asina Airlines-American Airlines-Cargolux-Cathay Pacific-Delta Air Lines-Frontier-Turkish Airlines-United Ailines,74N-A319-319-74F-31B-73H-738-E170-E70-74Y-74F-B752-757-752-75W-75D-32Q-321-7S8-7M9-A320-320-B38M-B39M-738-7M8
+ATL,Hartsfield–Jackson Atlanta International Airport,PHX,Phoenix Sky Harbor International Airport,2552,Delta Air Lines-American Airlines-Frontier-Southwest Airlines,321-32B-A321-B753-75T-753-32Q-32N-A20N-7M8-73W-738-73H-B738
+ATL,Hartsfield–Jackson Atlanta International Airport,SEA,Seattle–Tacoma International Airport,3509,Delta Airlines-Alaska Airlines,B752-73J-739-B739-7M9-73H-B753-75T-753
+ATL,Hartsfield–Jackson Atlanta International Airport,SFO,San Francisco International Airport,3438,Delta Air Lines-Frontier-United Airlines,739-73J-B753-75T-753-B739-75W-A20N-32N-7M8-B38M
+ATL,Hartsfield–Jackson Atlanta International Airport,LHR,Heathrow Airport,6768,Delta Air lines-British Airways-Virgin Atlantic,B764-764-B772-777-A35K-351
+ATL,Hartsfield–Jackson Atlanta International Airport,IST,Istanbul Airport,9256,Turkish Airlines,B789-789-77X
+ATL,Hartsfield–Jackson Atlanta International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,6968,Delta Air Lines,B763-76W
+ATL,Hartsfield–Jackson Atlanta International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,7368,Delta Air Lines,A359-359-350
+ATL,Hartsfield–Jackson Atlanta International Airport,DOH,Hamad International Airport,11998,Qatar Airways,B773-77W
+ATL,Hartsfield–Jackson Atlanta International Airport,AMS,Amsterdam Airport Schiphol,7074,Delta Air Lines-KLM,A333-333-A359-359-350-B773-77W
+ATL,Hartsfield–Jackson Atlanta International Airport,CUN,Cancún International Airport,1423,Delta Air Lines-Frontier,B752-75W-757-75D-321-32Q-32N-A20N-739
+ATL,Hartsfield–Jackson Atlanta International Airport,MEX,Mexico City International Airport,2146,Delta Air Lines,B752-75D-757-75W-73H-738-B738
+ATL,Hartsfield–Jackson Atlanta International Airport,HND,Tokyo Haneda Airport,11066,Delta Air Lines,A359-359
+ATL,Hartsfield–Jackson Atlanta International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,8095,Delta Air Lines,A333-333
+ATL,Hartsfield–Jackson Atlanta International Airport,FRA,Frankfurt Airport,7417,Delta Air Lines-Lufthansa-Qatar Airways,A332-332-A333-333-77X
+ATL,Hartsfield–Jackson Atlanta International Airport,MUC,Munich Airport,7711,Delta Air Lines,B763-76C-764
+ATL,Hartsfield–Jackson Atlanta International Airport,CDG,Charles de Gaulle Airport,7064,Delta Air Lines-Air France,A359-359-350-A339-339-76C-764-B772-772-332
+ATL,Hartsfield–Jackson Atlanta International Airport,BOG,El Dorado International Airport,3393,Delta Air Lines,75W-757
+ATL,Hartsfield–Jackson Atlanta International Airport,YYZ,Toronto Pearson International Airport,1193,Air Canada-Delta Air Lines-Korean Air,76F-763-CR9-73H-738-7S8-77X
+ATL,Hartsfield–Jackson Atlanta International Airport,GRU,São Paulo/Guarulhos International Airport,7519,Delta Air Lines,A333-333-B763-76C-764
+DFW,Dallas Fort Worth International Airport,DEN,Denver International Airport,1033,American Airlines-Frontier-United Airlines-New England Airlines-Frontier,319-320-321-738-A319-A320-A321-CR9-CRJ9-B738-C68A-A20N-A21N-32B-32N-32Q-7S8
+DFW,Dallas Fort Worth International Airport,ORD,O'Hare International Airport,1292,American Airlines-Nippon Cargo Airlines-United Airlines-Cronos Airlines-Spirit Airlines,A321-321-B738-738-B38M-7M8-747-74N-A319-319-73H-32B-74F-32N-A20N-32Q-320-319-73J-73G-A320
+DFW,Dallas Fort Worth International Airport,LAX,Los Angeles International Airport,1985,American Airlines-Delta Air Lines-Spirit Airlines-Cathay Pacific-Qantas,A321-321-32B-A21N-32Q-A320-320-32A-74N-A20N-B744-74Y
+DFW,Dallas Fort Worth International Airport,JFK,John F. Kennedy International Airport,2237,American Airlines-Delta Air Lines,B738-738-221-BCS1-73H
+DFW,Dallas Fort Worth International Airport,LAS,Harry Reid International Airport,1697,American Airlines-Spirit Airlines-Sun Country Airlines-Frontier,B38M-321-32B-A321-A20N-32N-B738-738-A320
+DFW,Dallas Fort Worth International Airport,MIA,Miami International Airport,1804,American Airlines-Frontier-Air Chathams-Cargolux-Cathay Pacific-Spirit Airlines,B738-738-A321-321-320-B744-B788-788-A21N-32Q-32B-B772-772-74Y-74F-32N-74N-A20N
+DFW,Dallas Fort Worth International Airport,MCO,Orlando International Airport,1584,American Airlines-Frontier-Spirit Airlines,319-32B-32A-A321-321-738-B738-73H-32Q-A21N-32N-32A-A320
+DFW,Dallas Fort Worth International Airport,CLT,Charlotte Douglas International Airport,1505,American Airlines-Spirit Airlines,A321-321-32B-B738-A319-319
+DFW,Dallas Fort Worth International Airport,SEA,Seattle–Tacoma International Airport,2671,Alaska Airlines-Asiana Airlines-American Airlines-China Airlines,B739-7M9-73J-74F-A21N-32Q-A321-321-32B-74Y
+DFW,Dallas Fort Worth International Airport,PHX,Phoenix Sky Harbor International Airport,1395,American Airlines-Spirit Airlines-Frontier,321-A21N-32Q-A321-32N-A20N
+DFW,Dallas Fort Worth International Airport,EWR,Newark Liberty International Airport,2207,American Airlines-United Airlines,B738-73H-738-7M8-A319-319-320-A320-7M9-73W-B737-B39M
+DFW,Dallas Fort Worth International Airport,SFO,San Francisco International Airport,2354,American Airlines-Frontier-United Airlines,A321-321-B738-738-A21N-32Q-A20N-32N-A319-319
+DFW,Dallas Fort Worth International Airport,IAH,George Bush Intercontinental Airport,362,American Airlines-United Airlines-UPS-Cargolux,B738-738-319-73G-7M8-73H-B752-A321-321-A319-E75-B737-74F-739-E7W-CR9-E170-CRJ9
+DFW,Dallas Fort Worth International Airport,BOS,Logan International Airport,2512,American Airlines-JetBlue Airways-Delta Airlines-Spirit Airlines,BCS1-221-B738-73H-738-A321-321-320-BCS3-223-A320-32N
+DFW,Dallas Fort Worth International Airport,FLL,Fort Lauderdale–Hollywood International Airport,1801,American Airlines-Spirit Airlines,738-B738-73H-321-A321-A21N-32Q-32N-32A-A320-32B
+DFW,Dallas Fort Worth International Airport,MSP,Minneapolis/St Paul International Airport,1374,Delta Air Lines-Sun Country Airlines-American Airlines,BCS3-223-738-B738-321-73H-320-A319-319-A320
+DFW,Dallas Fort Worth International Airport,LGA,LaGuardia Airport,2234,American Airlines-Delta Airlines-Spirit Airlines-Frontier,B738-738-BCS1-223-221-BCS1-A20N-32N-73H-32Q
+DFW,Dallas Fort Worth International Airport,LHR,Heathrow Airport,7635,American Airlines-British Airlines,772-B773-77W-B77W-B772-772-A388-380-388
+DFW,Dallas Fort Worth International Airport,DXB,Dubai International Airport,12934,Emirates,B77L-B772-77L
+DFW,Dallas Fort Worth International Airport,IST,Istanbul Airport,10087,Turkish Airlines,B789-789
+DFW,Dallas Fort Worth International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,7981,American Airlines-Iberia,B788-788-A333-A332-333-330
+DFW,Dallas Fort Worth International Airport,DOH,Hamad International Airport,12579,Qatar Airways,359-351-B772-77L
+DFW,Dallas Fort Worth International Airport,AMS,Amsterdam Airport Schiphol,7909,American Airlines,B788-788
+DFW,Dallas Fort Worth International Airport,CUN,Cancún International Airport,1659,Frontier-Spirit Airlines-American Airlines,A20N-32N-32A-32B-321-A321-B738-73H-738
+DFW,Dallas Fort Worth International Airport,MEX,Mexico City International Airport,1512,American Airlines-Volaris-Aeromexico,B738-738-32Q-73H-E190-E90
+DFW,Dallas Fort Worth International Airport,HND,Tokyo Haneda Airport,10389,Jet Linx Aviation-American Airlines,B77W-B773-773-B788-788
+DFW,Dallas Fort Worth International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,9024,American Airlines,B789-789
+DFW,Dallas Fort Worth International Airport,FRA,Frankfurt Airport,8266,American Airlines-Lufthansa,B788-788-B789-789-77X-B77L
+DFW,Dallas Fort Worth International Airport,CDG,Charles de Gaulle Airport,7953,American Airlines-Air France,B789-789-A359-359-332
+DFW,Dallas Fort Worth International Airport,SYD,Sydney Airport,13824,Qantas,B789-789
+DFW,Dallas Fort Worth International Airport,BOG,El Dorado International Airport,3938,American Airlines,A319-319
+DFW,Dallas Fort Worth International Airport,GRU,São Paulo/Guarulhos International Airport,8253,American Airlines,B789-789
+DFW,Dallas Fort Worth International Airport,YYZ,Toronto Pearson International Airport,1931,American Airlines-Air Canada,73H-738-E75-223-763-76F
+DEN,Denver International Airport,ORD,O'Hare International Airport,1428,United Air Lines-American Airlines-Southwest Airlines,B39M-7M9-738-75T-753-B753-B772-777-B738-73H-73J-B77L-739-7S8-B739-7M8-73W-B737-
+DEN,Denver International Airport,LAX,Los Angeles International Airport,1386,United Air Lines-Southwest Airlines-American Airlines-Delta Air Lines-FedEx,76Y-B739-739-73J-B38M-7M8-B738-B737-738-73W-73H-E75S-E75-A319-319-763-B753-75T-753
+DEN,Denver International Airport,JFK,John F. Kennedy International Airport,2613,JetBlue Airways-Delta Air Lines,320-B739-73J-739-A321-32Q
+DEN,Denver International Airport,LAS,Harry Reid International Airport,1010,Frontier-United Airlines-Southwest Airlines-Spirit Airlines,A20N-32N-32Q-321-A21N-A321-B739-739-B738-738-B737-73W-7S8-7M8-32A-B39M-7M9-73H
+DEN,Denver International Airport,MIA,Miami International Airport,2752,Frontier-American Airlines-United Airlines-Southwest Airlines,A321-321-32N-B38M-7M8-B738-738-A320-320
+DEN,Denver International Airport,MCO,Orlando International Airport,2489,Frontier-United Airlines-Southwest Airlines,A321-321-32N-32Q-A21N-739-B737-73J-7S8-B738-738-B739-739-B39M-7M9-B38M-7M8-73H-73W
+DEN,Denver International Airport,CLT,Charlotte Douglas International Airport,2151,American Airlines-Frontier-United Airlines-Southwest Airlines,A321-321-A21N-32Q-319-B739-7M8-7M9-73W
+DEN,Denver International Airport,SEA,Seattle–Tacoma International Airport,1647,Alaska Airlines-Delta Air Lines-Frontier-United Airlines-Southwest Airlines,B738-737-7M9-73J-73H-32Q-221-A321-32N-A20N-B38M-7M8-73W-B737-BCS1-B739-739-B738-738-319-320
+DEN,Denver International Airport,PHX,Phoenix Sky Harbor International Airport,969,Frontier-United Airlines-Southwest Airlines-American Airlines,32N-A20N-321-32Q-B739-73J-739-73G-73W-738-73H-B38M-7M8-B737-A319-319-320-B738-CRJ9-CR9
+DEN,Denver International Airport,EWR,Newark Liberty International Airport,2579,United Airlines,B752-752-739-73J-738-7M8-B739-7M9-B38M-7S8
+DEN,Denver International Airport,SFO,San Francisco International Airport,1554,Frontier-United Airlines-Southwest Airlines,32B-32Q-321-32N-A321-B753-753-73J-739-B739-7M8-B737-73W-B39M-7M9-B77L-772-777-B738-73H-
+DEN,Denver International Airport,IAH,George Bush Intercontinental Airport,1389,Frontier-United Airlines-Southwest Airlines,A20N-321-32N-B38M-739-7S8-B39M-73J-B738-B739-738-7M8-73H-7M9
+DEN,Denver International Airport,BOS,Logan International Airport,2819,JetBlue Airways-Delta Air Lines-United Airlines-Southwest Airlines,320-32B-321-A321-32Q-7S8-7M8-7M9-B38M-B739-73J-739-738-B39M-73H-73W-B737
+DEN,Denver International Airport,FLL,Fort Lauderdale–Hollywood International Airport,2742,United Airlines-Spirit Airlines-Southwest Airlines,B38M-7M8-32N-B738-738-7S8-73H
+DEN,Denver International Airport,MSP,Minneapolis/St Paul International Airport,1094,Frontier-Sun Country Airlines-United Airlines-Delta Air Lines-Southwest Airlines,A20N-32N-32Q-B738-738-B39M-7M9-73H-73W-B38M-7M8-A321-321-A320-320-B739-73J-739-32B-B737
+DEN,Denver International Airport,LGA,LaGuardia Airport,2603,JetBlue Airways-Delta Air Lines-Southwest Airlines-United,A320-32S-320-B738-738-73H-B38M-7M8-73W-A319-319-73W-B737
+DEN,Denver International Airport,LHR,Heathrow Airport,7505,United Airlines-British Airways,B789-789-B77W-77W-777-B789-789
+DEN,Denver International Airport,MEX,Mexico City International Airport,2336,Aeromexico,7S8-32Q-32N
+DEN,Denver International Airport,CUN,Cancún International Airport,2692,Frontier-Southwest Airlines-United Airlines,A21N-32N-321-32Q-B737-73W-739-B39M-7M9
+DEN,Denver International Airport,FRA,Frankfurt Airport,8097,Lufthansa-United Airlines,B789-789
+DEN,Denver International Airport,MUC,Munich Airport,8396,Lufthansa-United Airlines,A359-359-B789-789
+DEN,Denver International Airport,CDG,Charles de Gaulle Airport,7842,Air France,B772-772
+DEN,Denver International Airport,YYZ,Toronto Pearson International Airport,2114,Air Canada-United Airlines,223-A319-319
+ORD,O'Hare International Airport,LAX,Los Angeles International Airport,2805,American Airlines-Korean Air-Spirit Airlines-Qantas-United Airlines,B738-738-73H-A21N-32Q-A321-321-74F-A320-320-32A-A319-753-7M9-B753-75T-B739-739-73J-781
+ORD,O'Hare International Airport,JFK,John F. Kennedy International Airport,1189,American Airlines - JetBlue Airways - Nippon Cargo Airlines - Delta Air Lines - Polar Air Cargo - Turkish Airlines,B738-738-7M8-E90-74N-E170-E7W-E75L-E75-E7W-77F-77X-74F
+ORD,O'Hare International Airport,LAS,Harry Reid International Airport,2434,American Airlines-Spirit Airlines-United Airlines-Southwest Airlines-American Airlines,"B738-738-32N-A20N-32B-32A-7S8-B739
+-73J-7M8-739-B39M-B737-7M9-73W-73H"
+ORD,O'Hare International Airport,MIA,Miami International Airport,1932,Cathay Pacific-American Airlines-Emirates-Spirit Airlines-United Airlines,74N-B738-73H-738-B38M-7M8-77X-32A-A20N-32N-A319-319-B737-739-7S8
+ORD,O'Hare International Airport,MCO,Orlando International Airport,1622,Spirit Airlines-Southwest Airlines-American Airlines-Frontier-United Airlines,A321-32B-73H-73W-B738-738-32Q-32N-A20N-A320-32A-A319-319-B737-7M9-7M8-B753-75T-753
+ORD,O'Hare International Airport,CLT,Charlotte Douglas International Airport,966,American Airlines-Spirit Airlines-United Airlines,B738-73H-738-32B-321-A321-321-A319-319-B737-A320-73G-320-7M8-7M9
+ORD,O'Hare International Airport,SEA,Seattle–Tacoma International Airport,2765,Alaska Airlines-Korean Air-United Airlines-American Airlines-Delta Air Lines,B739-73J-73H-B738-B39M-74N-B744-7M9-738-74Y-B38M-7M8-739
+ORD,O'Hare International Airport,PHX,Phoenix Sky Harbor International Airport,2316,American Airlines-New England Airlines-Frontier-United Airlines-Southwest Airlines,321-A321-738-B738-73H-E55P-A20N-32Q-32N-B739-73J-739-7M9-B39M-320-73W
+ORD,O'Hare International Airport,EWR,Newark Liberty International Airport,1156,American Airlines-United Airlines,B738-73H-738-B752-75W-752-E170-E70-E75-73G-739-B737-B739-A320-7M8-7S8-320-73J-319
+ORD,O'Hare International Airport,SFO,San Francisco International Airport,2967,Alaska Airlines-United Airlines-American Airlines,B739-B39M-73H-73J-738-739-B772-777-B753-753-7M8-B738-752-B752-B39M-7M9
+ORD,O'Hare International Airport,IAH,George Bush Intercontinental Airport,1492,Spirit Airlines-United Airlines-American Airlines-Emirates,32A-7M8-B739-73J-739-738-B738-73H-74Y-7M8-B38M-7M9-B39M-B753-75T-B737
+ORD,O'Hare International Airport,BOS,Logan International Airport,1393,American Airlines-JetBlue Airways-Delta Air Lines-United Airlines,B738-738-73H-E75-E170-BCS3-223-221-BCS1-B39M-7M9-B739-7M8-739-B38M
+ORD,O'Hare International Airport,FLL,Fort Lauderdale–Hollywood International Airport,1908,Spirit Airlines-United Airlines-Southwest Airlines,A21N-32Q-32B-B738-738-A320-32N-7M9-73W
+ORD,O'Hare International Airport,MSP,Minneapolis/St Paul International Airport,538,Delta Air Lines-Sun Country Airlines-United Airlines-American Airlines,BCS1-221-738-B738-7M8-B737-320-73G-73H-CRJ3-CRJ-CR2-A319-717-319-B712-CR9-739-7S8-73J
+ORD,O'Hare International Airport,LGA,LaGuardia Airport,1178,American Airlines-United Airlines-Delta Air Lines,B738-73H-738-319-B737-73W-73G-A319-BCS1-221-BCS3-E75-A320-320-E7W-7M8-7S8
+ORD,O'Hare International Airport,LHR,Heathrow Airport,6351,American Airlines-British Airways-United Airlines,B789-789-A339-339-A388-388-B763-76W-763
+ORD,O'Hare International Airport,DXB,Dubai International Airport,11654,Emirates,B77W-77W
+ORD,O'Hare International Airport,IST,Istanbul Airport,8795,Turkish Airlines,B77W-77W-A359-359-77F-77X
+ORD,O'Hare International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,6752,Iberia,A333-330
+ORD,O'Hare International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,7102,American Airlines-United Airlines,B788-788
+ORD,O'Hare International Airport,DOH,Hamad International Airport,11471,Qatar Airways,B77W-B773-77W
+ORD,O'Hare International Airport,AMS,Amsterdam Airport Schiphol,6619,KLM-United Airlines-Emirates-Martinair Holland-Qatar Airways,B78X-789-781-B788-788-77X-74Y
+ORD,O'Hare International Airport,CUN,Cancún International Airport,2333,Frontier-Spirit Airlines-American Airlines-United Airlines,32Q-321-32B-B738-73H-738-B739-739-73J
+ORD,O'Hare International Airport,MEX,Mexico City International Airport,2722,Alrosa-Aeromexico-United Airlines-VivaAerobus-Volaris-Turkish Airlines,ABX-B38M-7M8-B738-7S8-A320-320-A21N-32Q-32N-77X
+ORD,O'Hare International Airport,HND,Tokyo Haneda Airport,10135,Jet Linx Aviation-NH111-UA881,B789-789-B77W-77W-B78W-781
+ORD,O'Hare International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,7751,American Airlines-United Airlines,B789-789-B78X-781
+ORD,O'Hare International Airport,DEL,Indira Gandhi International Airport,12035,Air India,B77W-B773-77W
+ORD,O'Hare International Airport,FRA,Frankfurt Airport,6978,Air Antillers-Etihad Airways-Lufthansa-United Airlines-Qatar Airways,B77L-77X-B748-74H-A343-343-B78X-781
+ORD,O'Hare International Airport,MUC,Munich Airport,7278,Lufthansa-United Airlines,A346-346-A359-359-B78X-781
+ORD,O'Hare International Airport,CDG,Charles de Gaulle Airport,6672,American Airlines-Air France-United Airlines,B788-788-B789-789-77X
+ORD,O'Hare International Airport,GRU,São Paulo/Guarulhos International Airport,8437,United Airlines,B78X-781
+ORD,O'Hare International Airport,YYZ,Toronto Pearson International Airport,702,Korean Air-Jazz Aviation-American Airlines-Air Canada-United Airlines-WestJet,74N-E75-E75S-CR2-CRJ-319-B738-738-7S8-7M9-E7W-B39M-7F8
+LAX,Los Angeles International Airport,JFK,John F. Kennedy International Airport,3979,American Airlines-JetBlue Airways-Delta Air Lines,A321-32B-321-32S-B763-76W-B764-75W-76C-764-A339-B752
+LAX,Los Angeles International Airport,LAS,Harry Reid International Airport,380,Alaska Airlines-Delta Air Lines-Spirit Airlines-Southwest Airlines-JSX-American Airlines-JetBlue Airways-United Airlines,B738-7S8-73J-73H-7M9-LJ60-32N-A20N-B737-73W-7M8-ER3-738-E75L-E170-E75-320-A320-32A-B737-739-B739
+LAX,Los Angeles International Airport,MIA,Miami International Airport,3767,American Airlines-Delta Air Lines-JetBlue Airways-Korean Air,A21N-32Q-B739-73J-739-A321-32S-32B-77X
+LAX,Los Angeles International Airport,MCO,Orlando International Airport,3566,JetBlue Airways-Delta Air Lines-American Airlines-United Airlines,A320-320-A21N-A321-32Q-B739-73J-739-B738-738-73H-321-B39M-7M9
+LAX,Los Angeles International Airport,CLT,Charlotte Douglas International Airport,3416,American Airlines,A21N-32Q-A321-321
+LAX,Los Angeles International Airport,SEA,Seattle–Tacoma International Airport,1539,JetBlue Airways-Delta Air Lines-United Airlines-Air Transport International-American Airlines-Alaska Airlines-Cargolux,A320-320-A321-32Q-B738-B737-738-7S8-B763-E75L-E75-E75S-7M9-73J-32B-B739-B39M-73H-74F-B38M-7M8
+LAX,Los Angeles International Airport,PHX,Phoenix Sky Harbor International Airport,595,American Airlines-ABX Air-Southwest Airlines-Delta Air Lines-United Airlines-iAero Airways,73W-B738-73H-738-A21N-32Q-32B-321-B763-B737-73W-7M8-E75L-E170-E75-E7W-B38M-7M8-753-738
+LAX,Los Angeles International Airport,EWR,Newark Liberty International Airport,3945,Alaska AIirlines-United Airlines-JetBlue Airways-Spirit Airlines,A321-32Q-32B-A21N-B752-752-75W-32S-A320-32A-A20N-B772-777-B78X-781
+LAX,Los Angeles International Airport,SFO,San Francisco International Airport,544,Delta Air Lines-Korean Air-Asiana Airlines-United Airlines-Southwest Airlines-American Airlines-Alaska Airlines-JetBlue Airways-China Airlines-New England Airlines-ABX Air-Nippon Cargo-Airlines,A320-320-A319-319-B748-74N-B744-74F-B738-738-7S8-B737-73W-73H-E75L-E75-E160-E75S-B739-73J-7M9-B77L-74Y-74F-77W-739-B38M-7M8
+LAX,Los Angeles International Airport,IAH,George Bush Intercontinental Airport,2217,Spirit Airlines-Amercan Airlines-Delta Air Lines-United Airlines,A20N-A320-32A-A321-32B-E75L-E75S-E75-A319-319-32N-B739-73J-739-B39M-7M9
+LAX,Los Angeles International Airport,BOS,Logan International Airport,4198,JetBlue Airways-Delta Air Lines-American Airlines-United Airlines,32Q-32S-32B-A321-321-75W-B752-752
+LAX,Los Angeles International Airport,FLL,Fort Lauderdale–Hollywood International Airport,3767,JetBlue Airways-Delta Air Lines-Spirit Airlines,A320-32S-A321-32B-A21N-32Q-A20N-32N
+LAX,Los Angeles International Airport,MSP,Minneapolis/St Paul International Airport,2470,Delta Air Lines-Sun Country Airlines,A321-32B-321-B739-73J-739-32Q-B738-738
+LAX,Los Angeles International Airport,LGA,LaGuardia Airport,3970,Delta Air Lines,223
+LAX,Los Angeles International Airport,LHR,Heathrow Airport,8769,Virgin Atlantic-American Airlines-British Airways-Delta Air Lines-United Airlines,A35K-351-B789-789-B77W-77W-B772-772-B773-A339-339-B789-789
+LAX,Los Angeles International Airport,LGW,London Gatwick Airport,8807,Norse UK,B789-789
+LAX,Los Angeles International Airport,DXB,Dubai International Airport,13415,Emirates,A388-388
+LAX,Los Angeles International Airport,IST,Istanbul Airport,11015,Turkish Airlines,B789-77W-B773-789-B77W
+LAX,Los Angeles International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,9396,Iberia,A359-359
+LAX,Los Angeles International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,9685,Iberia,A332-332
+LAX,Los Angeles International Airport,SIN,Singapore Changi Airport,14117,Singapore Airlines,A359-359
+LAX,Los Angeles International Airport,JED,King Abdulaziz International Airport,13405,Saudia,B77W-773
+LAX,Los Angeles International Airport,DOH,Hamad International Airport,13362,Qatar Airways,A35K-351
+LAX,Los Angeles International Airport,MNL,Ninoy Aquino International Airport,11753,Philippine Airlines,B77W-773-B773
+LAX,Los Angeles International Airport,AMS,Amsterdam Airport Schiphol,8996,KLM-Singapore Airlines,B78X-781-B744-74Y-74F
+LAX,Los Angeles International Airport,CUN,Cancún International Airport,3410,Alaska Airlines-American Airlines-JetBlue Airways-Delta Air Lines-United Airlines,B739-73H-73J-32B-320-B39M-7M9-739
+LAX,Los Angeles International Airport,MEX,Mexico City International Airport,2503,Alrosa-Aeromexico-Delta Air Lines-VivaAerobus-Volaris-American Airlines,76X-B38M-7M8-B788-788-B752-75W-757-A20N-32Q-32N-A21N-A319-319
+LAX,Los Angeles International Airport,HND,Tokyo Haneda Airport,8822,Delta Air Lines-American Airlines-Jet Linx Aviation-United Airlines-All Nippon Airways,A339-339-B788-788-B77W-77W-B78X-781-B789-789
+LAX,Los Angeles International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,10215,ITA Airways,A359-359
+LAX,Los Angeles International Airport,MUC,Munich Airport,9627,Lufthansa-Gulf and Caribbean Cargo,A359-359-GLEX
+LAX,Los Angeles International Airport,FRA,Frankfurt Airport,9331,Lufthansa-Condor-Emirates,A343-343-B748-74H-A332-A339-332-77X
+LAX,Los Angeles International Airport,CDG,Charles de Gaulle Airport,9113,Air Tahiti Nui-Air France-Delta Air Lines,B789-789-B77W-77W-A359-359-B772-772-A339-339
+LAX,Los Angeles International Airport,ORY,Orly Airport,9126,French Bee,A359-359
+LAX,Los Angeles International Airport,BOG,El Dorado International Airport,5607,Avianca,A332-332
+LAX,Los Angeles International Airport,GRU,São Paulo/Guarulhos International Airport,9930,LATAM Airlines,B773-773
+LAX,Los Angeles International Airport,SYD,Sydney Airport,12075,American Airlines-Delta Air Lines-Qantas-Kalitta Air-United Airlines,B77W-77W-A359-359-A388-388-B789-B77L-789
+LAX,Los Angeles International Airport,YYZ,Toronto Pearson International Airport,3498,Air Canada-Lynx Air-WestJet,B38M-7M8-333-A321-321-73H
+JFK,John F. Kennedy International Airport,LAS,Harry Reid International Airport,3613,JetBlue Airways-Delta Air Lines,A321-321-32S-32Q-A21N-32B
+JFK,John F. Kennedy International Airport,MIA,Miami International Airport,1759,American Airlines-JetBlue Airways-Delta Air Lines-Turkish Airlines-LATAM Cargo,B772-772-B738-73H-738-B38M-7M8-320-74F-76F-B762
+JFK,John F. Kennedy International Airport,MCO,Orlando International Airport,1523,JetBlue Airways-Delta Air Lines-,320-A320-A21N-A321-32B-32Q
+JFK,John F. Kennedy International Airport,CLT,Charlotte Douglas International Airport,872,American Airlines-Delta Air Lines,B738-738-B38M-7M8-A319-31B-319-CRJ9-CR9-E75-E75S-E170
+JFK,John F. Kennedy International Airport,SEA,Seattle–Tacoma International Airport,3891,Alaska Airlines-JetBlue Airways-Delta Air Lines-Asiana Airlines,B739-73J-7M9-B738-7S8-73H-B39M-A321-321-32S-A21N-32Q-74F
+JFK,John F. Kennedy International Airport,PHX,Phoenix Sky Harbor International Airport,3462,JetBlue Airways-Delta Air Lines-American Airlines,A321-320-321-A21N-32Q-B739-73J-739-B38M-7M8
+JFK,John F. Kennedy International Airport,EWR,Newark Liberty International Airport,33,JetBlue Airways,A320
+JFK,John F. Kennedy International Airport,SFO,San Francisco International Airport,4156,American Airlines-Alaska Airlines-JetBlue Airways-Delta Air Lines,A321-32B-B739-73J-7M9-B39M-73H-32S-321-B752-75W-76W
+JFK,John F. Kennedy International Airport,IAH,George Bush Intercontinental Airport,2280,JetBlue Airways-Qatar Airways,320-77X
+JFK,John F. Kennedy International Airport,BOS,Logan International Airport,300,JetBlue Airways-American Airlines-Delta Air Lines,E90-321-E170-E75-E75L-E190-A321-BCS1-221-E7W-E75S
+JFK,John F. Kennedy International Airport,FLL,Fort Lauderdale–Hollywood International Airport,1725,JetBlue Airways-Delta Air Lines,A320-320-321-A321-32B
+JFK,John F. Kennedy International Airport,MSP,Minneapolis/St Paul International Airport,1653,Sun Country Airlines-Delta Air Lines,B738-738-A320-A319-319-320-221
+JFK,John F. Kennedy International Airport,LHR,Heathrow Airport,5545,JetBlue Airways-Delta Air Lines-Virgin Atlantic-American Airlines-British Airways,A21N-32Q-B764-764-A339-339-330-A333-333-B77W-B773-77W-B772-772-A35K-351
+JFK,John F. Kennedy International Airport,LGW,London Gatwick Airport,5575,JetBlue Airways-Delta Air Lines-Norse UK-British Airways,A21N-32Q-B763-76W-B789-789-B772-B77L-777
+JFK,John F. Kennedy International Airport,DXB,Dubai International Airport,11014,Emirates,A388-388
+JFK,John F. Kennedy International Airport,IST,Istanbul Airport,8035,Turkish Airlines-MNG Airlines,B77W-B773-77W-A333-333-33X-ABY-33F-77X
+JFK,John F. Kennedy International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,5767,American Airlines-Air Europa-Delta Air Lines-Iberia,B772-772-B789-788-B763-76W-A359-359-A332-332
+JFK,John F. Kennedy International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,6157,American Airlines-Delta Air-Iberia,B772-772-B763-76W-A333-333
+JFK,John F. Kennedy International Airport,SIN,Singapore Changi Airport,15358,Singapore Airlines,A359-359
+JFK,John F. Kennedy International Airport,JED,King Abdulaziz International Airport,10237,Saudia,B77W-777
+JFK,John F. Kennedy International Airport,MNL,Ninoy Aquino International Airport,13771,Philippine Airlines,A359-350
+JFK,John F. Kennedy International Airport,DOH,Hamad International Airport,10782,American Airlines-Qatar Airways,B77W-B773-77W-A35K-351
+JFK,John F. Kennedy International Airport,MEX,Mexico City International Airport,3369,Aeromexico-Delta Air Lines-VivaAerobus-American Airlines,B38M-7M8-B788-788-B752-75W-757-A320-320
+JFK,John F. Kennedy International Airport,CUN,Cancún International Airport,2509,JetBlue Airways-Delta Air Lines-American Airlines,A321-32B-321-B739-73J-739-B38M-7M8-320
+JFK,John F. Kennedy International Airport,AMS,Amsterdam Airport Schiphol,5854,Delta Air Lines-Kalitta Air-KLM-JetBlue Airways,A339-339-A333-333-74F-B78X-781-772-789-B772-A21N-32Q
+JFK,John F. Kennedy International Airport,HND,Tokyo Haneda Airport,10887,Jet Linx Aviation-All Nippon Airways,B77W-B773-77W-773-788
+JFK,John F. Kennedy International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,6874,American Airlines-ITA Airways-Delta Air Lines-Norse,A339-B772-772-A332-330-339-B764-76C-332-A333-333-B789-789
+JFK,John F. Kennedy International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,12546,Air India,B77L-77L
+JFK,John F. Kennedy International Airport,DEL,Indira Gandhi International Airport,11768,American Airlines-Air India,B77W-B773-77W
+JFK,John F. Kennedy International Airport,FRA,Frankfurt Airport,6195,Singapore Airlines-Air Antilles-Delta Air Lines-Lufthansa-Condor-Lufthansa,B77W-B773-77W-B77L-332-A332-A346-343-A343-A339-339-77X-346
+JFK,John F. Kennedy International Airport,CDG,Charles de Gaulle Airport,5841,Air France-American Airlines-Delta Air Lines-Norse-JetBlue Airways,B77W-B773-77W-B772-772-B764-76C-A333-333-789-A21N-32Q
+JFK,John F. Kennedy International Airport,BOG,El Dorado International Airport,4001,Avianca-Alrosa-Delta Air Lines,A20N-A319-320-319-B762-A320-B752-75W-757
+JFK,John F. Kennedy International Airport,GRU,São Paulo/Guarulhos International Airport,7672,American Airlines-Delta Air Lines-LATAM Airlines,B772-772-B764-76C-764-B789-789
+JFK,John F. Kennedy International Airport,MUC,Munich Airport,6488,Lufthansa,A388-388
+JFK,John F. Kennedy International Airport,YYZ,Toronto Pearson International Airport,589,Cathay Pacific-American Airlines-Air Canada-Delta Air Lines-Flair Airlines-Turkish Airlines,E75S-B748-74N-E75L-E75-E7W-CRJ9-CR9-B38M-7M8-77X
+LAS,Harry Reid International Airport,MIA,Miami International Airport,3498,American Airlines-Spirit Airlines,A321-32B-321-B38M-7M8-A319-319
+LAS,Harry Reid International Airport,MCO,Orlando International Airport,3280,Frontier-Southwest Airlines-Spirit Airlines,A20N-7M8-32N-A20N-32Q-A319-319-B38M-73W
+LAS,Harry Reid International Airport,CLT,Charlotte Douglas International Airport,3080,American Airlines-Frontier-Spirit Airlines,A321-321-32B-A21N-32Q-A20N-32N
+LAS,Harry Reid International Airport,SEA,Seattle–Tacoma International Airport,1397,Alaska Airlines-Spirit Airlines-Southwest Airlines-Delta Air Lines-Frontier,B739-737-7S8-73J-7M9-B738-73H-32N-B737-73W-738-A321-32Q-321-A20N-A320-321-32B-7M8-B38M
+LAS,Harry Reid International Airport,PHX,Phoenix Sky Harbor International Airport,411,American Airlines-Frontier-Southwest Airlines-JSX-Air Cargo Carriers-Ameriflight-Spirit Airlines,B38M-7M8-A20N-32N-321-B738-73H-73W-E145-ER4-ER3-SH36-SH6-SW4-B738-32Q-738-A21N-320-32A-A320-319-B737-B734
+LAS,Harry Reid International Airport,EWR,Newark Liberty International Airport,3580,Spirit Airlines-United Airlines,A320-32N-32A-B738-B737-738-7S8-320-A320-7M8-B39M-7M9-B38M-B752-752-75W-772-7M8
+LAS,Harry Reid International Airport,SFO,San Francisco International Airport,666,Alaska Airlines-Jet Linx Aviation-United Airlines-Southwest Airlines-New England Airlines-Frontier,B39M-B739-73J-739-73H-737-CL30-B738-738-7M8-E170-E70-E75-GL5T-A20N-32Q-321-320-32N-32B-B38M-319-B737-73W
+LAS,Harry Reid International Airport,IAH,George Bush Intercontinental Airport,1965,Spirit Airlines-Sun Country Airlines-Frontier-United Airlines-Southwest Airlines,32A-738-73H-A21N-32N-A20N-A321-321-A320-32B-B39M-B737-73J-739-7M8-B739-73W-B738
+LAS,Harry Reid International Airport,BOS,Logan International Airport,3827,JetBlue Airways-Spirit Airlines-Delta Air Lines,A321-32Q-A21N-A20N-321-32S-32N
+LAS,Harry Reid International Airport,FLL,Fort Lauderdale–Hollywood International Airport,3496,JetBlue Airways-Spirit Airlines,A321-321-A20N-32N
+LAS,Harry Reid International Airport,MSP,Minneapolis/St Paul International Airport,2090,Spirit Airlines-Sun Country Airlines-Delta Air Lines-Southwest Airlines,A321-32B-321-A320-32N-B738-738-7M8-32Q-B739-73J-739-A21N
+LAS,Harry Reid International Airport,LGA,LaGuardia Airport,3604,Delta Air Lines,223
+LAS,Harry Reid International Airport,LHR,Heathrow Airport,8404,British Airways-Virgin Atlantic,A35K-359-351-B789-789
+LAS,Harry Reid International Airport,LGW,London Gatwick Airport,8442,British Airways,B77L-777
+LAS,Harry Reid International Airport,AMS,Amsterdam Airport Schiphol,8607,KLM,B78X-781-789
+LAS,Harry Reid International Airport,MEX,Mexico City International Airport,2430,Aeromexico-VivaAerobus-Volaris,B738-7S8-A320-320-A21N-32Q-32N
+LAS,Harry Reid International Airport,FRA,Frankfurt Airport,8972,Discover Airlines-Condor,333-332-A339-339
+LAS,Harry Reid International Airport,YYZ,Toronto Pearson International Airport,3124,jetlines-Air Canada-WestJet,A320-32A-321-320-A321-7M8-73W-B38M
+MIA,Miami International Airport,MCO,Orlando International Airport,310,Delta Air Lines-American Airlines,738-32Q-321-7M8-319-73H-B738-A21N-A321-B38M
+MIA,Miami International Airport,CLT,Charlotte Douglas International Airport,1051,American Airlines-Spirit Airlines,B38M-B738-738-A321-321-73H-32S-319-32A
+MIA,Miami International Airport,SEA,Seattle–Tacoma International Airport,4385,Alaska Airlines-American Airlines,B39N-7M9-A21N-32Q
+MIA,Miami International Airport,PHX,Phoenix Sky Harbor International Airport,3172,American Airlines,B38M-7M8-A21N-32Q
+MIA,Miami International Airport,EWR,Newark Liberty International Airport,1753,American Airlines-JetBlue Airways-Spirit Airlines-United Airlines,B38M-7M8-B738-73H-738-A320-320-A20N-32N-A321-32B-7S8-B739-739
+MIA,Miami International Airport,SFO,San Francisco International Airport,4158,American Airlines-China Airlines,A21N-32Q-B744-74Y
+MIA,Miami International Airport,IAH,George Bush Intercontinental Airport,1551,Cathay Pacific-American Airlines-China Airlines-Cargolux-Spirit Airlines-United Airlines,74N-B738-73H-738-E75L-E75-74Y-74F-B744-A20N-32N-7M9-73G-73J-7S8-7M8
+MIA,Miami International Airport,BOS,Logan International Airport,2030,American Airlines-Delta Air Lines-JetBlue Airways-Spirit Airlines,B738-73H-738-BCS3-223-B38M-7M8-A21N-32Q-A21N-A321-321-738-223-A20N-32N
+MIA,Miami International Airport,FLL,Fort Lauderdale–Hollywood International Airport,34,FedEx,B752
+MIA,Miami International Airport,MSP,Minneapolis/St Paul International Airport,2421,Delta Air Lines,A320-320
+MIA,Miami International Airport,LGA,LaGuardia Airport,1770,American Airlines-Spirit Airlines-Delta Air Lines,A321-B738-B38M-73H-319-32B-738-7M8
+MIA,Miami International Airport,LHR,Heathrow Airport,7117,Virgin Atlantic-American Airlines-British Airlines,B789-789-B772-772-B77W-77W-A388-388-A333-333
+MIA,Miami International Airport,LGW,London Gatwick Airport,7141,Norse UK,789
+MIA,Miami International Airport,DXB,Dubai International Airport,12621,Emirates,B77W-B773-77W
+MIA,Miami International Airport,IST,Istanbul Airport,9595,Turkish Airlines,B77W-B773-789-77W-B789-74F-B77F
+MIA,Miami International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,7114,American Airlines-Air Europa-Iberia,B788-788-789-A333-A332-333-330-332
+MIA,Miami International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,7553,American Airlines,B788-788
+MIA,Miami International Airport,DOH,Hamad International Airport,12354,Qatar Airways,A35K-351
+MIA,Miami International Airport,AMS,Amsterdam Airport Schiphol,7451,Atlas Air-Martinair Holland-LATAM Cargo,B744-74Y-76F-B763
+MIA,Miami International Airport,CUN,Cancún International Airport,856,American Airlines-Estafeta-LATAM Airlines,B738-73H-738-7M8-A21N-32Q-B734-789
+MIA,Miami International Airport,MEX,Mexico City International Airport,2053,Alrosa-American Airlines-Aeromexico-Amerijet International-Avianca Cargo-Volaris,76X-B38M-7M8-B738-7S8-75F-76Y-33F-A21N-32Q
+MIA,Miami International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,8339,ITA Airways,A332-339-330
+MIA,Miami International Airport,FRA,Frankfurt Airport,7771,Lufthansa,B748-74H
+MIA,Miami International Airport,CDG,Charles de Gaulle Airport,7380,Air France,B77W-B773-77W
+MIA,Miami International Airport,ORY,Orly Airport,7375,French Bee,A359-359
+MIA,Miami International Airport,BOG,El Dorado International Airport,2438,Avianca-Atlas Air-UPS-American Airlines-FedEx-IrAero-LATAM Airlines-Avianca Cargo-Air Canada-Martinair Holland-Turkish Airlines,A320-320-B788-788-A20N-74F-B763-763-A319-319-B741-33F-76F-74Y-33X-77X
+MIA,Miami International Airport,GRU,São Paulo/Guarulhos International Airport,6581,American Airlines-Atlas Air-LATAM Cargo Colombia-LATAM Airlines-Turkish Airlines,B77W-B773-77W-788-B788-B748-B744-B763-773-B789-789-77X
+MIA,Miami International Airport,YYZ,Toronto Pearson International Airport,1992,American Airlines-Air Canada-WestJet,A319-31B-319-223-76F-7F8
+MCO,Orlando International Airport,CLT,Charlotte Douglas International Airport,756,American Airlines-Frontier-Spirit Airlines,A321-321-32B-A20N-32N-32Q-A319-319
+MCO,Orlando International Airport,SEA,Seattle–Tacoma International Airport,4109,Alaska Airlines-Delta Air Lines,B739-B39M-73H-7S8-7M9-73J-A21N-32Q-A321
+MCO,Orlando International Airport,PHX,Phoenix Sky Harbor International Airport,2973,American Airlines-Frontier-Southwest Airlines,A21N-32Q-321-A20N-32N-73W-B38M-7M8-738
+MCO,Orlando International Airport,EWR,Newark Liberty International Airport,1513,Spirit Airlines-JetBlue Airways-United Airlines-Sun Country Airlines,A319-A320-A321-319-320-321-32A-32B-B752-752-B739-739-B738-738-B737-7S8-73J-7M8-7M9-73G-B38M-B39M
+MCO,Orlando International Airport,SFO,San Francisco International Airport,3933,Alaska Airlines-United Airlines,B739-73H-73J-7M9-B39M
+MCO,Orlando International Airport,IAH,George Bush Intercontinental Airport,1374,Spirit Airlines-United Airlines-Frontier-Southwest Airlines,A319-319-A320-32A-A20N-32N-B739-73J-739-7M8-73H-B38M
+MCO,Orlando International Airport,BOS,Logan International Airport,1808,JetBlue Airways-Spirit Airlines-Delta Air Lines-Frontier,A320-320-BCS3-32A-223-E90-A321-321-32B-E190-B738-A20N-319-32N
+MCO,Orlando International Airport,FLL,Fort Lauderdale–Hollywood International Airport,286,Silver Airways-Spirit Airways-Sun Country Airlines-Southwest Airlines,AT72-AT7-A321-32B-B738-B737-73W-B38M-7M8
+MCO,Orlando International Airport,MSP,Minneapolis/St Paul International Airport,2113,Sun Country Airlines-Delta Air Lines,738-B738-A321-32B-321-A21N
+MCO,Orlando International Airport,LGA,LaGuardia Airport,1533,JetBlue Airways-Delta Air Lines-Spirit Airlines-Frontier,A320-320-A321-321-32B-32A-32N-32Q
+MCO,Orlando International Airport,LHR,Heathrow Airport,6973,Virgin Atlantic,A333-333-A35K-351
+MCO,Orlando International Airport,LGW,London Gatwick Airport,6999,Norse UK-British Airways,B789-789-B772-777-B77L
+MCO,Orlando International Airport,DXB,Dubai International Airport,12474,Emirates,B773-77W
+MCO,Orlando International Airport,CUN,Cancún International Airport,997,JetBlue Airways-Frontier-Spirit Airlines,320-A20-A321-32N-321-A319-319
+MCO,Orlando International Airport,MEX,Mexico City International Airport,2062,Aeromexico-Volaris,B738-7S8-32Q-32N
+MCO,Orlando International Airport,FRA,Frankfurt Airport,7627,Discover Airlines,A333-333
+MCO,Orlando International Airport,BOG,El Dorado International Airport,2748,Avianca-LATAM Airlines,A320-320
+MCO,Orlando International Airport,GRU,São Paulo/Guarulhos International Airport,6877,LATAM Airlines,B789-789
+MCO,Orlando International Airport,YYZ,Toronto Pearson International Airport,1704,Air Transat-Air Canada-WestJet,A21N-32Q-A320-321-A321-A319-319-7M8-73H-B737-7S8-73W-B38M-7M8
+CLT,Charlotte Douglas International Airport,SEA,Seattle–Tacoma International Airport,3665,American Airlines,A321-321
+CLT,Charlotte Douglas International Airport,PHX,Phoenix Sky Harbor International Airport,2851,American Airlines,A321-321-A21N-32Q
+CLT,Charlotte Douglas International Airport,EWR,Newark Liberty International Airport,851,American Airlines,A321-321-A320-320-A319-319-739-B38M-7M8-73G-7M9-B738-73H-738-B737-B739
+CLT,Charlotte Douglas International Airport,SFO,San Francisco International Airport,3691,American Airlines,A321-321
+CLT,Charlotte Douglas International Airport,IAH,George Bush Intercontinental Airport,1469,United Airlines-American Airlines,B738-738-B737-A321-321-B38M-73G-7M8-E75L-E7W
+CLT,Charlotte Douglas International Airport,BOS,Logan International Airport,1172,American Airlines-JetBlue Airways-Delta Air Lines-Spirit Airlines,A321-321-B738-738-E190-E90E75S-E75-E75L-E170-A320-32A-32N
+CLT,Charlotte Douglas International Airport,FLL,Fort Lauderdale–Hollywood International Airport,1020,Spirit Airlines-American Airlines,A20N-32N-A321-321
+CLT,Charlotte Douglas International Airport,MSP,Minneapolis/St Paul International Airport,1498,American Airlines-Delta Air Lines-New England Airlines-Sun Country Airlines,B738-738-A321-B712-717-CNJ
+CLT,Charlotte Douglas International Airport,LGA,LaGuardia Airport,876,Spirit Airlines-American Airlines-Delta Air Lines,A321-32B-B738-A319-738-321-CRJ9-CR9-E70-E75S-E75-E170
+CLT,Charlotte Douglas International Airport,LHR,Heathrow Airport,6416,American Airlines,B772-772
+CLT,Charlotte Douglas International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,6604,American Airlines,B772-772
+CLT,Charlotte Douglas International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,7735,American Airlines,B772-772
+CLT,Charlotte Douglas International Airport,FRA,Frankfurt Airport,7066,American Airlines,B772-772
+CLT,Charlotte Douglas International Airport,YYZ,Toronto Pearson International Airport,949,Jazz Aviation-American Airlines-Air Canada,E75S-CRJ9-CR9-E75
+SEA,Seattle–Tacoma International Airport,PHX,Phoenix Sky Harbor International Airport,1784,American Airlines-Alaska Airlines-Delta Air Lines-Frontier-Southwest Airlines,B738-738-B739-739-73J-73H-7M9-A319-319-E75-A20N-32Q-32N-7M873W-B38M-B737
+SEA,Seattle–Tacoma International Airport,EWR,Newark Liberty International Airport,3859,Alaska Airlines-United Airlines,B739-73J-73H-7M9-B38M-7M8-320-B39M-B737-738-7S9
+SEA,Seattle–Tacoma International Airport,SFO,San Francisco International Airport,1094,United Airlines-Alaska Airlines-Delta Air Lines,A319-739-319-73J-7M9-B739-73H-B738-7S8-737-221-E170-E75-E7W-A320-320-738-B737
+SEA,Seattle–Tacoma International Airport,IAH,George Bush Intercontinental Airport,3017,Alaska Airlines-United Airlines,B739-B738-7M9-73J-319-739-B39M
+SEA,Seattle–Tacoma International Airport,BOS,Logan International Airport,4010,Alaska Airlines-JetBlue Airways-Delta Air Lines-Asiana Airlines,B39M-B739-73J-B738-737-7S8-A321-32B-32S-A21N-32Q
+SEA,Seattle–Tacoma International Airport,FLL,Fort Lauderdale–Hollywood International Airport,4373,Alaska Airlines-Delta Air Lines,B39M-7M9-73H-A21N-A321-32Q
+SEA,Seattle–Tacoma International Airport,MSP,Minneapolis/St Paul International Airport,2248,Alaska Airlines-Delta Air Lines-Sun Country Airlines,73J-B739-73H-7M9-739-A21N-A321-32Q-32B-321-738-B738
+SEA,Seattle–Tacoma International Airport,LHR,Heathrow Airport,7711,British Airways-Delta Air Lines-American Airlines-Virgin Atlantic,B78X-781-B77W-B772-777-A333-333-B789-789-772
+SEA,Seattle–Tacoma International Airport,IST,Istanbul Airport,9756,Turkish Airlines,B789-789
+SEA,Seattle–Tacoma International Airport,DXB,Dubai International Airport,11941,Emirates,B77W-77W
+SEA,Seattle–Tacoma International Airport,SIN,Singapore Changi Airport,12994,Singapore Airlines,A359-359
+SEA,Seattle–Tacoma International Airport,DOH,Hamad International Airport,11919,Qatar Airways,B77W-B773-77W
+SEA,Seattle–Tacoma International Airport,AMS,Amsterdam Airport Schiphol,7849,Delta Air Lines,A333-333
+SEA,Seattle–Tacoma International Airport,MEX,Mexico City International Airport,3761,Aeromexico,B738-7S8
+SEA,Seattle–Tacoma International Airport,CUN,Cancún International Airport,4326,Alaska Airlines-Delta Air Lines,B739-B39M-73H-73J-B738-738
+SEA,Seattle–Tacoma International Airport,HND,Tokyo Haneda Airport,7720,Delta Air Lines-All Nippon Airways,A333-A339-339-B788-788
+SEA,Seattle–Tacoma International Airport,FRA,Frankfurt Airport,8206,Lufthansa-Condor,A333-333-A339-339
+SEA,Seattle–Tacoma International Airport,CDG,Charles de Gaulle Airport,8059,Delta Air Lines-Air France,A339-A333-333-B77W-772
+SEA,Seattle–Tacoma International Airport,YYZ,Toronto Pearson International Airport,3311,Air Canada,BCS3-223
+PHX,Phoenix Sky Harbor International Airport,EWR,Newark Liberty International Airport,3429,American Airlines-New England Airlines-Spirit Airlines-United Airlines,A21N-A321-32Q-321-E55P-A320-32A-B38M-7M8-B752-752-777
+PHX,Phoenix Sky Harbor International Airport,SFO,San Francisco International Airport,1047,American Airlines-Frontier-United Airlines-Southwest Airlines,A321-321-B738-738-320-73H-319-E170-E75-32N-32Q-7S8-B39M-7M9-B38M-7M8-B737-73W
+PHX,Phoenix Sky Harbor International Airport,IAH,George Bush Intercontinental Airport,1623,American Airlines-Frontier-United Airlines-Southwest Airlines,A319-319-320-32N-738-739-B38M-7M8-B39M-7M9-CRJ9-CR9
+PHX,Phoenix Sky Harbor International Airport,BOS,Logan International Airport,3698,Delta Air Lines-American Airlines-JetBlue Airways,B739-73J-A21N-32Q-BCS3-223
+PHX,Phoenix Sky Harbor International Airport,MSP,Minneapolis/St Paul International Airport,2054,Sun Country Airlines-Southwest Airlines-American Airlines-Delta Air Lines,738-B738-7M8-73W-73H-A320-320-A321-32B-321-B739-73J-321-739
+PHX,Phoenix Sky Harbor International Airport,LGA,LaGuardia Airport,3454,Delta Air Lines,B752
+PHX,Phoenix Sky Harbor International Airport,LHR,Heathrow Airport,8472,American Airlines-British Airways,B772-772-B77L-777
+PHX,Phoenix Sky Harbor International Airport,FRA,Frankfurt Airport,9060,Condir,A332-332
+PHX,Phoenix Sky Harbor International Airport,MEX,Mexico City International Airport,2019,American Airlines,A320-320
+PHX,Phoenix Sky Harbor International Airport,CUN,Cancún International Airport,2834,American Airlines,A21N-32Q
+EWR,Newark Liberty International Airport,SFO,San Francisco International Airport,4123,Alaska Airlines-United Airlines,B739-737-73H-73J-7M9-B772-777-B752-752-75W
+EWR,Newark Liberty International Airport,IAH,George Bush Intercontinental Airport,2253,Spirit Airlines-United Airlines,A319-319-32A-B39M-7M9-7M8-B763-76W-763-7S8-739-B38M-B738-738-B737-77W
+EWR,Newark Liberty International Airport,BOS,Logan International Airport,322,JetBlue Airways-United Airlines-Delta Air Lines,E190-E90-B737-738-A319-319-B38M-73G-7S8-B739-7M9-E170-E75-7M8-739-B39M-320-E70
+EWR,Newark Liberty International Airport,FLL,Fort Lauderdale–Hollywood International Airport,1719,JetBlue Airways-United Airlines-Spirit Airlines,A320-320-A20N-32N-32A-B39M-7M9-73J-739-A321-32B-B38M-7M8-A319-B739
+EWR,Newark Liberty International Airport,MSP,Minneapolis/St Paul International Airport,1621,Sun Country Airlines-United Airlines-Delta Air Lines,738-B712-717-B38M-7M8-7S8-A320-320
+EWR,Newark Liberty International Airport,LHR,Heathrow Airport,5567,United Airlines-British Airways,B763-76W-763-B78X-789-781-B772-B77L-777
+EWR,Newark Liberty International Airport,DXB,Dubai International Airport,11033,United Airlines,B772-777-772
+EWR,Newark Liberty International Airport,IST,Istanbul Airport,8057,Turkish Airlines,A333-333
+EWR,Newark Liberty International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,5795,United Airlines,B764-764
+EWR,Newark Liberty International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,6184,United Airlines,B78X-781
+EWR,Newark Liberty International Airport,SIN,Singapore Changi Airport,15354,Singapore Airlines,A359-359
+EWR,Newark Liberty International Airport,AMS,Amsterdam Airport Schiphol,5875,United Airlines,B772-B77L-777
+EWR,Newark Liberty International Airport,MEX,Mexico City International Airport,3346,United Airlines,73G-B737
+EWR,Newark Liberty International Airport,CUN,Cancún International Airport,2496,JetBlue Airways-United Airlines,32A-320-B39M-7M9-B739-73J-739
+EWR,Newark Liberty International Airport,HND,Tokyo Haneda Airport,10867,United Airlines,B772-772-777
+EWR,Newark Liberty International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,6899,United Airlines,B78X-781-B772-777
+EWR,Newark Liberty International Airport,DEL,Indira Gandhi International Airport,11777,United Airlines-Air India,B789-789-B773-77W
+EWR,Newark Liberty International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,12560,Air India,B77W-77W
+EWR,Newark Liberty International Airport,FRA,Frankfurt Airport,6217,United Airlines-Lufthansa,B764-764-B748-74H-B77W-77W
+EWR,Newark Liberty International Airport,MUC,Munich Airport,6510,United Airlines-Lufthansa,B763-764-A346-346
+EWR,Newark Liberty International Airport,CDG,Charles de Gaulle Airport,5864,Air France-United Airlines,B772-772-777-781
+EWR,Newark Liberty International Airport,ORY,Orly Airport,5864,La Compagnie-French Bee,A21N-321-A359-359
+EWR,Newark Liberty International Airport,BOG,El Dorado International Airport,4006,United Airlines,B38M-7M8
+EWR,Newark Liberty International Airport,GRU,São Paulo/Guarulhos International Airport,7692,United Airlines,B789-789
+EWR,Newark Liberty International Airport,YYZ,Toronto Pearson International Airport,560,Air Canada-United Airlines,E75-E7W-E70
+SFO,San Francisco International Airport,IAH,George Bush Intercontinental Airport,2630,United Airlines,B739-319-739-B39M-7M9-B738-B753-753-B38M-7M8-B772-738-777
+SFO,San Francisco International Airport,BOS,Logan International Airport,4346,JetBlue Airways-Alaska Airlines-Delta Air Lines-United Airlines,321-32S-B39M-7M9-73J-B739-A21N-321-A321-32Q-752-A320-B752-75W
+SFO,San Francisco International Airport,FLL,Fort Lauderdale–Hollywood International Airport,4155,JetBlue Airways,32S
+SFO,San Francisco International Airport,MSP,Minneapolis/St Paul International Airport,2554,Delta Air Lines-Sun Country Airlines-United Airlines,B739-73J-739-B738-738-A319-319
+SFO,San Francisco International Airport,LHR,Heathrow Airport,8625,Virgin Atlantic-British Airways-United Airlines,B789-789-A35K-351-B77W-77W-777-A388-388-B772-B77L
+SFO,San Francisco International Airport,LGW,London Gatwick Airport,8665,Norse UK,789
+SFO,San Francisco International Airport,DXB,Dubai International Airport,13035,Emirates,A388-388
+SFO,San Francisco International Airport,IST,Istanbul Airport,10777,Turkish Airlines,B77W-77W-789-A359-359
+SFO,San Francisco International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,9341,Iberia,332
+SFO,San Francisco International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,9596,Iberia,332
+SFO,San Francisco International Airport,SIN,Singapore Changi Airport,13597,United Airlines-Singapore Airlines,B789-789-A359-359
+SFO,San Francisco International Airport,DOH,Hamad International Airport,13008,Qatar Airways,A35K-351
+SFO,San Francisco International Airport,MNL,Ninoy Aquino International Airport,11241,Philippine Airlines,B77W-773
+SFO,San Francisco International Airport,AMS,Amsterdam Airport Schiphol,8795,KLM-United Airlines,B78X-781-B789-789
+SFO,San Francisco International Airport,MEX,Mexico City International Airport,3032,Aeromexico-United Airlines,B738-7S8-A319-319-A320-320
+SFO,San Francisco International Airport,CUN,Cancún International Airport,3875,Alaska Airlines-United Airlines,B738-7M9-B739-73J-739
+SFO,San Francisco International Airport,HND,Tokyo Haneda Airport,8295,Jet Linx Aviation-All Nippon Airways-United Airlines,B77W-B773-77W-773-B772-B77L-777
+SFO,San Francisco International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,10069,ITA Airways-United Airlines,A359-359-B772-772-777
+SFO,San Francisco International Airport,DEL,Indira Gandhi International Airport,12395,Air India,B77L-77L-77W
+SFO,San Francisco International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,13526,Air India,77L
+SFO,San Francisco International Airport,FRA,Frankfurt Airport,9158,United Airlines-Lufthansa-Condor,B77W-B773-77WB748-74H-A332-339
+SFO,San Francisco International Airport,MUC,Munich Airport,9448,Lufthansa-United Airlines,A359-359-B772-777-772
+SFO,San Francisco International Airport,CDG,Charles de Gaulle Airport,8973,Air France-United Airlines,B77W-B773-77W-B772-772-B77L-777
+SFO,San Francisco International Airport,ORY,Orly Airport,8988,French Bee,359
+SFO,San Francisco International Airport,SYD,Sydney Airport,11963,Qantas-United Airlines,7789-B77W-77W
+SFO,San Francisco International Airport,YYZ,Toronto Pearson International Airport,3632,Air Canada-United Airlines,7M8-321-788-A320-320
+IAH,George Bush Intercontinental Airport,BOS,Logan International Airport,2570,JetBlue Airways-United Airlines,223-7M9-B39M-BCS3-B38M-7M8-73G-320
+IAH,George Bush Intercontinental Airport,FLL,Fort Lauderdale–Hollywood International Airport,1553,Spirit Airlines-United Airlines,A20N-32N-A321-32B-B38M-7M8-B39M-7M9-B738-738-320
+IAH,George Bush Intercontinental Airport,MSP,Minneapolis/St Paul International Airport,1669,Sun Country Airlines-Delta Air Lines-United Airlines,738-A319-319-B739-739-E7W
+IAH,George Bush Intercontinental Airport,LGA,LaGuardia Airport,2280,American Airlines-Delta Air Lines-Spirit Airlines-United Airlines,E75-E75S-BCS1-221-223-319-32A-32B-A319-B738-320-7S8-738-B737-73G-E170-E7W
+IAH,George Bush Intercontinental Airport,LHR,Heathrow Airport,7771,United Airlines-British Airways,B789-789-B77W-B773-77W-B78X-789-781-B772-772-777
+IAH,George Bush Intercontinental Airport,DXB,Dubai International Airport,13140,Emirates,A388-388
+IAH,George Bush Intercontinental Airport,IST,Istanbul Airport,10243,Turkish Airlines,B77W-77W-B789-789-77F-77X
+IAH,George Bush Intercontinental Airport,MEX,Mexico City International Airport,1233,Aeromexico-United Airlines-VivaAerobus-Volaris,B738-7S8-A319-319-320-A320-32N-32Q-73G
+IAH,George Bush Intercontinental Airport,CUN,Cancún International Airport,1309,Spirit Airlines-United Airlines,A320-32A-B39M-7M9-B739-739-73J
+IAH,George Bush Intercontinental Airport,DOH,Hamad International Airport,12947,Qatar Airways,A35K-351
+IAH,George Bush Intercontinental Airport,AMS,Amsterdam Airport Schiphol,8058,United Airlines-KLM,B772-B77L-777-A333-333
+IAH,George Bush Intercontinental Airport,HND,Tokyo Haneda Airport,10737,All Nippon Airways,B789-789
+IAH,George Bush Intercontinental Airport,FRA,Frankfurt Airport,8411,United Airlines-Lufthansa-Emirates,B772-B77L-772-777-B748-74H
+IAH,George Bush Intercontinental Airport,MUC,Munich Airport,8709,United Airlines,B763-763-76W
+IAH,George Bush Intercontinental Airport,CDG,Charles de Gaulle Airport,8081,Air France,A359-359
+IAH,George Bush Intercontinental Airport,BOG,El Dorado International Airport,3589,United Airlines,B38M-7M8
+IAH,George Bush Intercontinental Airport,GRU,São Paulo/Guarulhos International Airport,7914,United Airlines,B789-789
+IAH,George Bush Intercontinental Airport,YYZ,Toronto Pearson International Airport,2063,Air Canada-United Airlines,223-A319-73W-319-E7W
+BOS,Logan International Airport,FLL,Fort Lauderdale–Hollywood International Airport,1996,JetBlue Airways-Spirit Airlines-Delta Air Lines,A321-321-32B-32A-A20N-32N-223-320-BCS3-B738-73H-738
+BOS,Logan International Airport,MSP,Minneapolis/St Paul International Airport,1806,JetBlue Airways-Sun Country Airlines-Delta Air Lines,E90-223-738-A320-A321-32B-321
+BOS,Logan International Airport,LGA,LaGuardia Airport,267,JetBlue Airways-Delta Air Lines-Vietnam Airlines,E90-221-E190-BCS1-E170-E75-E75S
+BOS,Logan International Airport,LHR,Heathrow Airport,5245,Delta Air Lines-United Airlines-Virgin Atlantic-American Airlines-British Airways-BlueJet Airways,B764-764-B763-76W-763-A339-339-333-B772-772-B78X-781-77W-777-A388-388-B77L-777-A21N-32Q-32S
+BOS,Logan International Airport,LGW,London Gatwick Airport,5275,Norse UK-JetBlue Airways,B789-789-A21N-32S
+BOS,Logan International Airport,DXB,Dubai International Airport,10714,Emirates,B77W-77W
+BOS,Logan International Airport,IST,Istanbul Airport,7735,Turkish Airlines,A333-333
+BOS,Logan International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,5479,Iberia,A333-A332-330-332
+BOS,Logan International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,5865,Iberia,A332-332
+BOS,Logan International Airport,DOH,Hamad International Airport,10481,Qatar Airways,A359-359
+BOS,Logan International Airport,CUN,Cancún International Airport,2799,JetBlue Airways,321-320
+BOS,Logan International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,6577,ITA Airways-Delta Air Lines,A332-330-A333-333
+BOS,Logan International Airport,FRA,Frankfurt Airport,5895,Lufthansa,A343-343
+BOS,Logan International Airport,MUC,Munich Airport,6188,Lufthansa,A388-388
+BOS,Logan International Airport,CDG,Charles de Gaulle Airport,5541,Air France-Delta Air Lines,A359-359-A339-339
+BOS,Logan International Airport,BOG,El Dorado International Airport,4202,Avianca,320-A20N
+BOS,Logan International Airport,GRU,São Paulo/Guarulhos International Airport,7746,LATAM Airlines,B789-789
+BOS,Logan International Airport,YYZ,Toronto Pearson International Airport,716,Air Canada,223-BCS3
+FLL,Fort Lauderdale–Hollywood International Airport,MSP,Minneapolis/St Paul International Airport,2399,Delta Air Lines-Sun Country Airlines,B739-73J-739-738
+FLL,Fort Lauderdale–Hollywood International Airport,LGA,LaGuardia Airport,1737,JetBlue Airways-Delta Air Lines-Spirit Airlines-Frontier,320-A320-A321-321-32B-32Q-32N-A20N
+FLL,Fort Lauderdale–Hollywood International Airport,LGW,London Gatwick Airport,7108,Norse UK,B789-789
+FLL,Fort Lauderdale–Hollywood International Airport,CUN,Cancún International Airport,886,JetBlue Airways-Spirit Airlines,320-A321-32B-A320-32A
+FLL,Fort Lauderdale–Hollywood International Airport,BOG,El Dorado International Airport,2464,Avianca-Spirit Airlines-JetBlue Airways,320-A20N-32N-A320
+FLL,Fort Lauderdale–Hollywood International Airport,YYZ,Toronto Pearson International Airport,1961,FlyGTA Airlines-Air Transat-Air Canada-Flair Airlines-WestJet,EP3-A21N-32Q-321-32B-319-7M8-73H-73W
+MSP,Minneapolis/St Paul International Airport,LGA,LaGuardia Airport,1640,American Airlines-Delta Air Lines,E75L-E75-A321-32B-321-A320-320-319
+MSP,Minneapolis/St Paul International Airport,LHR,Heathrow Airport,6450,Delta Air Lines,A332-332
+MSP,Minneapolis/St Paul International Airport,CDG,Charles de Gaulle Airport,6783,Delta Air Lines,A339-339-A333-333
+MSP,Minneapolis/St Paul International Airport,AMS,Amsterdam Airport Schiphol,6692,Delta Air Lines-KLM,A333-333-B789-789
+MSP,Minneapolis/St Paul International Airport,HND,Tokyo Haneda Airport,9614,Delta Air Lines,A339-333-339
+MSP,Minneapolis/St Paul International Airport,MEX,Mexico City International Airport,2884,Delta Air Lines,319
+MSP,Minneapolis/St Paul International Airport,CUN,Cancún International Airport,2718,Sun Country Airlines-Delta Air Lines,B738-B739-73J-739-738
+LHR,Heathrow Airport,DXB,Dubai International Airport,5504,Emirates-Royal Brunei Airlines-British Airways,388-789-777-788-781-A388-B772
+LHR,Heathrow Airport,IST,Istanbul Airport,2491,British Airways-Turkish Airlines,A20N-320-32N-32Q-32A-772-32Q-77W-789-358-333-B789-332-77F
+LHR,Heathrow Airport,SAW,Istanbul Sabiha Gökçen International Airport,2555,British Airways,32N-32Q
+LHR,Heathrow Airport,BKK,Bangkok Suvarnabhumi Airport,9589,EVA Air-Thai Airways,B77W-77W
+LHR,Heathrow Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,1246,British Airways-Iberia,A319-32S-32N-32A-320-A320-319-359-330-332-333-321
+LHR,Heathrow Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,1149,British Airways,A320-319-32A-32N-32Q-320-32S-321
+LHR,Heathrow Airport,SIN,Singapore Changi Airport,10896,Qantas-British Airways-Singapore Airlines,A388-388-B77W-77W-B789-789-77W
+LHR,Heathrow Airport,JED,King Abdulaziz International Airport,4754,Saudia,789-781-787
+LHR,Heathrow Airport,DOH,Hamad International Airport,5248,Qatar Airways,77W-388-A388-A359-359-B77W
+LHR,Heathrow Airport,AMS,Amsterdam Airport Schiphol,371,British Airways-KLM-Singapore Airlines,320-32A-A319-319-A320-32N-32Q-B738-73H-295-73W-74Y
+LHR,Heathrow Airport,MEX,Mexico City International Airport,8913,Aeromexico-British Airways,B789-789
+LHR,Heathrow Airport,HND,Tokyo Haneda Airport,9602,British Airways-Jet Linx Aviation-All Nippon Airways,B789-789-788-77W-773
+LHR,Heathrow Airport,FCO,Leonardo da Vinci–Fiumicino Airport,1446,ITA Airways-British Airways,32S-319-320-A320-32A-32N-A321-32Q
+LHR,Heathrow Airport,DEL,Indira Gandhi International Airport,6739,Vistara-Air India-British Airways-Virgin Atlantic,B789-789-77W-788-777-B788
+LHR,Heathrow Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,7221,Vistara-Air India-British Airways-Virgin Atlantic,B789-789-788-B788-B772-777
+LHR,Heathrow Airport,FRA,Frankfurt Airport,655,British Airways-Lufthansa-Emirates,A320-32N-319-320-32A-A320-A20N-77X
+LHR,Heathrow Airport,MUC,Munich Airport,943,British Airways-Lufthansa-Qatar Airways,320-32N-A319-319-32Q-A20N-32S-77X
+LHR,Heathrow Airport,CDG,Charles de Gaulle Airport,348,Cathay Pacific-British Airways-Air France-Korean Air,74Y-A320-32A-320-319-32Q-32N-321-32S-77X-223-BCS3
+LHR,Heathrow Airport,BOG,El Dorado International Airport,8482,Avianca,B788-788
+LHR,Heathrow Airport,GRU,São Paulo/Guarulhos International Airport,9470,British Airlines-LATAM Airlines,A35K-351-B77W-773
+LHR,Heathrow Airport,YYZ,Toronto Pearson International Airport,5713,British Airlines-Air Canada,772-359-351-781-777-789-333-77W-B789
+LGW,London Gatwick Airport,IST,Istanbul Airport,2463,Turkish Airlines-Wizz Air UK,32Q-A321-321
+LGW,London Gatwick Airport,AYT,Antalya Airport,2911,TUI Airways-Freebird Airlines-SunExpress-British Airways-easyJet-Wizz Air UK-Corendon Airlines,73H-320-789-788-A320-7M8-B38M-7M9-321-738
+LGW,London Gatwick Airport,DXB,Dubai International Airport,5479,Emirates,A388-388
+LGW,London Gatwick Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,1215,Iberia Express-Iberia-easyJet-Air Europa,32A-A320-320-32Q-32S-319-B738-73H-738
+LGW,London Gatwick Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,1110,easyJet-Vueling,320-A319-319-A20N-32S-32A-321
+LGW,London Gatwick Airport,JED,King Abdulaziz International Airport,4720,Saudia,789
+LGW,London Gatwick Airport,DOH,Hamad International Airport,5221,Qatar Airways-British Airways,B788-788-777
+LGW,London Gatwick Airport,AMS,Amsterdam Airport Schiphol,365,British Airways-easyJet,320-321-A320-319-A20N-A319       
+LGW,London Gatwick Airport,CUN,Cancún International Airport,7986,TUI Airways-British Airways,789-788-B77L-777
+LGW,London Gatwick Airport,FCO,Leonardo da Vinci–Fiumicino Airport,1407,easyJet-Vueling-Wizz Air Malta,A319-319-320-A320-32Q-A21N
+LGW,London Gatwick Airport,FRA,Frankfurt Airport,630,Lufthansa,32A-320-319
+LGW,London Gatwick Airport,MUC,Munich Airport,915,easyJet,320-A319-319
+LGW,London Gatwick Airport,CDG,Charles de Gaulle Airport,308,easyJet,320-A320-319
+LGW,London Gatwick Airport,ORY,Orly Airport,327,Vueling,321-32Q-32B
+LGW,London Gatwick Airport,YYZ,Toronto Pearson International Airport,5745,Air Transat,32Q-332-333
+DXB,Dubai International Airport,IST,Istanbul Airport,3033,Emirates-FlyDubai-Turkish Airlines,77W-77L-388-7M8-333-789-332-B77W-A333-333
+DXB,Dubai International Airport,AYT,Antalya Airport,2665,SunExpress,7S8-73H
+DXB,Dubai International Airport,SAW,Istanbul Sabiha Gökçen International Airport,2971,FlyDubai-Pegasus Airlines-Turkish Airlines,7M8-A21N-321-320-A320
+DXB,Dubai International Airport,BKK,Bangkok Suvarnabhumi Airport,4909,Emirates,77W-A388-388
+DXB,Dubai International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,5656,Emirates,A388-388
+DXB,Dubai International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,5182,Emirates,B77W-77W-B77L-77L
+DXB,Dubai International Airport,SIN,Singapore Changi Airport,5853,Emirates-Singapore Airlines,388-B77W-77W-359
+DXB,Dubai International Airport,JED,King Abdulaziz International Airport,1701,Emirates-FlyDubai-Saudia-Flynas-SATA Air Acores,388-7M8-B38M-77W-773-330-32A-320-789-777-333-A321-32N-73H-7M8-GRJ
+DXB,Dubai International Airport,DOH,Hamad International Airport,378,FlyDubai-Qatar Airways,73H-7M8-359-788-351-333-77W
+DXB,Dubai International Airport,CGK,Soekarno–Hatta International Airport,6554,Emirates,B77W-77W
+DXB,Dubai International Airport,MNL,Ninoy Aquino International Airport,6914,Cebu Pacific-Emirates-Philippine Airlines,339-B77W-77W-A333-333
+DXB,Dubai International Airport,AMS,Amsterdam Airport Schiphol,5174,Emirates-KLM,B77W-77W-A388-388-772
+DXB,Dubai International Airport,HND,Tokyo Haneda Airport,7943,Emirates,77W
+DXB,Dubai International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,4348,Emirates,77W-A388-388
+DXB,Dubai International Airport,DEL,Indira Gandhi International Airport,2186,Spicejet-Air India-Emirates-FlyDubai-IndiGo,73H-738-788-32N-321-B77W-77W
+DXB,Dubai International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,1928,Spicejet-Air India-Emirates-FlyDubai-IndiGo-Vistara,32N-B38M-7M8-788-319-388-77L-77W-73H-321-320-A20N
+DXB,Dubai International Airport,FRA,Frankfurt Airport,4850,Emirates-Lufthansa,B77W-77W-A388-388-333-A333
+DXB,Dubai International Airport,MUC,Munich Airport,4569,Emirates,A388-388
+DXB,Dubai International Airport,CDG,Charles de Gaulle Airport,5244,Emirates-Air France,A388-388-B77W-77W-772
+DXB,Dubai International Airport,GRU,São Paulo/Guarulhos International Airport,12230,Emirates,388
+DXB,Dubai International Airport,SYD,Sydney Airport,12057,Emirates,A388-388-77W-B77W
+DXB,Dubai International Airport,YYZ,Toronto Pearson International Airport,11094,Air Canada-Emirates,B789-789-A388-388
+IST,Istanbul Airport,SAW,Istanbul Sabiha Gökçen International Airport,64,MNG Airlines-Turkish Airlines,ABY-B738
+IST,Istanbul Airport,AYT,Antalya Airport,518,Turkish Airlines,A320-32S-32B-32Q-73H-B738-73J-A321-32R-321-320-7M8-B77W-77W-A319-319-7M9-332
+IST,Istanbul Airport,BKK,Bangkok Suvarnabhumi Airport,7522,Turkish Airlines,A333-333-B744-77X
+IST,Istanbul Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,2704,Starlink Aviation-Turkish Airlines,733-A21N-32Q-32R-32B-B77W-333-332-33P-A332-77X
+IST,Istanbul Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,2221,Turkish Airlines,32R-32Q-B38M-7M8-73H-A332-33P-332-333-A333-31F-33F
+IST,Istanbul Airport,SIN,Singapore Changi Airport,8691,Turkish Airlines-Singapore Airlines,B77W-77W-359-A359-77X
+IST,Istanbul Airport,JED,King Abdulaziz International Airport,2390,Turkish Airlines-Flyadeal-Saudia,A332-32R-32B-32Q-A333-333-320-330
+IST,Istanbul Airport,DOH,Hamad International Airport,2760,Qatar Airways-Turkish Airlines,B788-77L-77W-B77W-32Q-A21N-32B-31Y-77X-A332-33F
+IST,Istanbul Airport,MNL,Ninoy Aquino International Airport,9148,Turkish Airlines,A359-359
+IST,Istanbul Airport,AMS,Amsterdam Airport Schiphol,2185,Turkish Airlines-KLM-MNG Airlines,B738-73H-A306-A333-320-333-77W-B789-789-332-33X-31F-A332-33F
+IST,Istanbul Airport,MEX,Mexico City International Airport,11401,Turkish Airlines,B789-789-77W-B773
+IST,Istanbul Airport,HND,Tokyo Haneda Airport,8969,Turkish Airlines,77W
+IST,Istanbul Airport,FCO,Leonardo da Vinci–Fiumicino Airport,1372,Turkish Airlines,A21N-32R-32B-A333-359-333-A321-32Q-789-7M8
+IST,Istanbul Airport,CGK,Soekarno–Hatta International Airport,9470,Turkish Airlines,A359-359
+IST,Istanbul Airport,DEL,Indira Gandhi International Airport,4572,IndiGo-Turkish Airlines,B77W-77W-33X
+IST,Istanbul Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,4842,IndiGo-Turkish Airlines,B77W-77W-33X
+IST,Istanbul Airport,FRA,Frankfurt Airport,1840,Lufthansa-Turkish Airlines,A20N-32A-32N-32Q-A320-32-A21N-A321-321-32X-A333-333-A332-332-32R-31F-B77L-77X
+IST,Istanbul Airport,MUC,Munich Airport,1548,Turkish Airlines,A332-333-332-A321-32R-32B-A333-32Q
+IST,Istanbul Airport,CDG,Charles de Gaulle Airport,2215,Turkish Airlines-FedEx,B738-A333-333-332-A321-32Q-32B-32R-B77W-789-A21N-33F-B77L-77F-33X
+IST,Istanbul Airport,ORY,Orly Airport,2220,Transavia France,73H-B738
+IST,Istanbul Airport,BOG,El Dorado International Airport,10739,Turkish Airlines,B773-B77W-77W
+IST,Istanbul Airport,GRU,São Paulo/Guarulhos International Airport,10569,Turkish Airlines,A359-359
+IST,Istanbul Airport,YYZ,Toronto Pearson International Airport,8180,Turkish Airlines-Biman Bangladesh Airlines,773-77W-B789-789
+AYT,Antalya Airport,SAW,Istanbul Sabiha Gökçen International Airport,464,Turkish Airlines-Pegasus Airlines,320-A20N-A21N-73H-32Q-B38M-32N-7M8-A32-B738-A20N-73W
+AYT,Antalya Airport,AMS,Amsterdam Airport Schiphol,2658,Corendon Dutch Airlines-Corendon Airlines-TUI Airlines Netherlands-Pegasus Airlines,738-B738-320-788-B788-76W-A20N
+AYT,Antalya Airport,FRA,Frankfurt Airport,2302,Mavi Gök Airlines-Condor-SunExpress-Discover Airlines-Pegasus Airlines-Freebird Airlines-Corendon Airlines-Turkish Airlines,B38M-7M8-B739-B753-753-320-73H-A320-32A-A20N-B738-738
+AYT,Antalya Airport,MUC,Munich Airport,2003,Mavi Gök Airlines-SunExpress-Pegasus Airlines-Freebird Airlines-Corendon Airlines-Turkish Airlines-Tropic Ocean Airways-Southwind Airlines,B77W-A321-B738-73H-B38M-7M8-A320-320-A20N-32S-332
+AYT,Antalya Airport,CDG,Charles de Gaulle Airport,2644,SunExpress,B38M-7M8-73H
+AYT,Antalya Airport,ORY,Orly Airport,2646,Transavia France,73H-B738
+SAW,Istanbul Sabiha Gökçen International Airport,MAD,Adolfo Suárez Madrid–Barajas Airport,2759,Pegasus Airlines,A21N-32Q-321-320-738
+SAW,Istanbul Sabiha Gökçen International Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,2275,Pegasus Airlines,A21N-32Q-321-B738-738-320
+SAW,Istanbul Sabiha Gökçen International Airport,JED,King Abdulaziz International Airport,2332,Pegasus Airlines-Turkish Airlines-Flynas,A21N-321-32Q-32N-7M8-A20N-738
+SAW,Istanbul Sabiha Gökçen International Airport,DOH,Hamad International Airport,2697,Pegasus Airlines-Qatar Airways,321-320-A320
+SAW,Istanbul Sabiha Gökçen International Airport,AMS,Amsterdam Airport Schiphol,2249,Pegasus Airlines-Turkish Airlines,A21N-32Q-321-32N-320-A320
+SAW,Istanbul Sabiha Gökçen International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,1427,Pegasus Airlines-Turkish Airlines,A21N-321-738-320-A20N-32N-32Q-7M8-73H
+SAW,Istanbul Sabiha Gökçen International Airport,FRA,Frankfurt Airport,1903,Pegasus Airlines-Turkish Airlines,A21N-321-32Q
+SAW,Istanbul Sabiha Gökçen International Airport,MUC,Munich Airport,1612,Pegasus Airlines-Turkish Airlines,A20N-320-321-A21N-32Q-73H
+SAW,Istanbul Sabiha Gökçen International Airport,CDG,Charles de Gaulle Airport,2278,FedEx-Pegasus Airlines-Turkish Airlines,B738-A21N-321-A321-73H-32Q
+BKK,Bangkok Suvarnabhumi Airport,SIN,Singapore Changi Airport,1418,Jetstar Asia-K Mile Air-Gulf Air-Singapore Airlines-Thai Airways-Scoot-Thai Vietjet Air,320-73P-789-359-787-772-773-32Q-A40-788-321
+BKK,Bangkok Suvarnabhumi Airport,JED,King Abdulaziz International Airport,6554,Saudia-Thai Airways,789-B78X-772
+BKK,Bangkok Suvarnabhumi Airport,DOH,Hamad International Airport,5286,Qatar Airways,B77W-77W-388-A388-B789-77X
+BKK,Bangkok Suvarnabhumi Airport,MNL,Ninoy Aquino International Airport,2190,Cebu Pacific-Philippine Airlines-Thai Airways,32Q-339-320-321-773-350-333-788-77W
+BKK,Bangkok Suvarnabhumi Airport,HND,Tokyo Haneda Airport,4594,Jet Linx Aviation-All Nippon Airways-United Airlines,789-77W-773-333-359-788
+BKK,Bangkok Suvarnabhumi Airport,CGK,Soekarno–Hatta International Airport,2300,Ethiopian Airlines-Garuda Indonesia-Thai Airways,789-333-738-772-788-359-77W
+BKK,Bangkok Suvarnabhumi Airport,DEL,Indira Gandhi International Airport,2952,SpiceJet-Air India-Thai Airways-Vistara-IndiGo,73H-737-788-32N-77W-772-32A-320-32Q
+BKK,Bangkok Suvarnabhumi Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,3034,Air India-Thai Airways-Vistara-IndiGo,A40-32N-333-32A-320
+BKK,Bangkok Suvarnabhumi Airport,FRA,Frankfurt Airport,9011,Thai Airways,B77W-77W
+BKK,Bangkok Suvarnabhumi Airport,MUC,Munich Airport,8810,Thai Airways-Lufthansa,A359-359
+BKK,Bangkok Suvarnabhumi Airport,CDG,Charles de Gaulle Airport,9458,Air France-Thai Airways,789-B77W-77W
+BKK,Bangkok Suvarnabhumi Airport,SYD,Sydney Airport,7523,Qantas-Thai Airways-Thai AirAsia X,333-B77W-77W
+MAD,Adolfo Suárez Madrid–Barajas Airport,BCN,Josep Tarradellas Barcelona–El Prat Airport,484,Swiftair-Iberia-Air Europa-Vueling,AT4-A321-321-320-32A-32S-319-A319-A320-A20N-B789-789-32N-32S-788
+MAD,Adolfo Suárez Madrid–Barajas Airport,JED,King Abdulaziz International Airport,4522,Saudia,B78X-789-787
+MAD,Adolfo Suárez Madrid–Barajas Airport,DOH,Hamad International Airport,5337,Qatar Airways,A359-359-B77W-77W-788-B788-77X
+MAD,Adolfo Suárez Madrid–Barajas Airport,AMS,Amsterdam Airport Schiphol,1461,Iberia-KLM-Air Europa,A320-32A-320-A321-321-B738-73H-73W-73J-789-788-7S8-737
+MAD,Adolfo Suárez Madrid–Barajas Airport,MEX,Mexico City International Airport,9076,Aeromexico-Iberia,B789-789-A359-359
+MAD,Adolfo Suárez Madrid–Barajas Airport,CUN,Cancún International Airport,7969,Air Europa-Iberojet-World2Fly,787-359-A333
+MAD,Adolfo Suárez Madrid–Barajas Airport,FCO,Leonardo da Vinci–Fiumicino Airport,1332,ITA Airways-Ryanair-Iberia-Air Europa-Wizz Air Malta,A320-320-319-32S-32N-73H-B738-738-A321-321-32A-A20N-789-787-A21N-32Q
+MAD,Adolfo Suárez Madrid–Barajas Airport,FRA,Frankfurt Airport,1422,Iberia-Lufthansa-European Air Transport-Air Europa,B77L-32A-319-CRJX-CRK-ABF-75F-A20N-321-32A-A321-32X-B738-73H-7S8
+MAD,Adolfo Suárez Madrid–Barajas Airport,MUC,Munich Airport,1498,Iberia-Lufthansa-Aeroways-Air Europa,A319-319-CRK-A20N-32A-32N-A321-C25A-B738-73H-738-7S8
+MAD,Adolfo Suárez Madrid–Barajas Airport,CDG,Charles de Gaulle Airport,1064,Air France-Iberia-easyJet,E190-A321-321-E90-223-A320-32S-320-32A-A319-319
+MAD,Adolfo Suárez Madrid–Barajas Airport,ORY,Orly Airport,1030,Iberia-Transavia France-Air Europa,A321-32N-321-320-B739-73H-738-7S8-788-789
+MAD,Adolfo Suárez Madrid–Barajas Airport,BOG,El Dorado International Airport,8039,Avianca-Plus Ultra-Air Europa-Iberia,B788-788-332-330-A359-359
+MAD,Adolfo Suárez Madrid–Barajas Airport,GRU,São Paulo/Guarulhos International Airport,8387,Air Europa-LATAM Airlines-Iberia,B789-789-A333-333-B77W-773
+MAD,Adolfo Suárez Madrid–Barajas Airport,YYZ,Toronto Pearson International Airport,6065,Air Canada,333-B763-76F
+BCN,Josep Tarradellas Barcelona–El Prat Airport,JED,King Abdulaziz International Airport,4096,Saudia,B78X-789-787
+BCN,Josep Tarradellas Barcelona–El Prat Airport,DOH,Hamad International Airport,4867,Qatar Airways,A359-359-B788-789
+BCN,Josep Tarradellas Barcelona–El Prat Airport,AMS,Amsterdam Airport Schiphol,1243,Transavia-KLM-Vueling,73H-73W-B78-38-B739-73J-32A-320-A321-321-A320-A20N-32Q-32N
+BCN,Josep Tarradellas Barcelona–El Prat Airport,MEX,Mexico City International Airport,9491,Emirates,B772-77L
+BCN,Josep Tarradellas Barcelona–El Prat Airport,CUN,Cancún International Airport,8409,Iberojet,339
+BCN,Josep Tarradellas Barcelona–El Prat Airport,FCO,Leonardo da Vinci–Fiumicino Airport,849,ITA-Airways-Ryanair-Vueling-Wizz Air Malta,A320-320-32S-32N-319-B738-73H-A321-32A-A21N-321-32Q
+BCN,Josep Tarradellas Barcelona–El Prat Airport,FRA,Frankfurt Airport,1095,Discover Airlines-Lufthansa,32A-A321-32Q-321-A21N-32N-32A
+BCN,Josep Tarradellas Barcelona–El Prat Airport,MUC,Munich Airport,1096,Lufthansa-Vueling,A320-32A-32N-321-A20N-A321-32S-32B
+BCN,Josep Tarradellas Barcelona–El Prat Airport,CDG,Charles de Gaulle Airport,860,Air France-easyJet-Vueling,BCS3-321-320-233-A321-A320-32A-32S-319-A20N
+BCN,Josep Tarradellas Barcelona–El Prat Airport,ORY,Orly Airport,827,Transavia France-Vueling,738-73H-B738-A20N-A320-32S-32A-319-A21N-321-32Q-A321
+BCN,Josep Tarradellas Barcelona–El Prat Airport,BOG,El Dorado International Airport,8522,Avianca,B788-788
+BCN,Josep Tarradellas Barcelona–El Prat Airport,GRU,São Paulo/Guarulhos International Airport,8774,LATAM Airlines,773
+BCN,Josep Tarradellas Barcelona–El Prat Airport,YYZ,Toronto Pearson International Airport,6424,Air Canada,77W-332
+CJU,Jeju International Airport,SIN,Singapore Changi Airport,4281,Scoot,32Q
+SIN,Singapore Changi Airport,JED,King Abdulaziz International Airport,7368,Saudia-Scoot,B789-789-787-788-B788
+SIN,Singapore Changi Airport,DOH,Hamad International Airport,6214,Qatar Airways,A35K-359-351-77W-A359
+SIN,Singapore Changi Airport,MNL,Ninoy Aquino International Airport,2377,Jetstar Asia-Cebu Pacific-Philippine Airlines-Singapore Airlines-Scoot-China Airlines,320-339-32N-32Q-321-773-350-333-359-787-788-74Y
+SIN,Singapore Changi Airport,HND,Tokyo Haneda Airport,5306,Jet Linx Aviation-All Nippon Airways-United Airlines,789-B763-767-359-77W
+SIN,Singapore Changi Airport,AMS,Amsterdam Airport Schiphol,10526,KLM-Singapore Airlines,B77W-77W-A359-359
+SIN,Singapore Changi Airport,CGK,Soekarno–Hatta International Airport,883,Jetstar Asia-K Mile Air-Garuda Indonesia-KLM-Indonesia AirAsia-Citlink-Singapore Airlines-Scoor-Batik Air,320-73P-738-333-77W-359-32N-73H-32A
+SIN,Singapore Changi Airport,DEL,Indira Gandhi International Airport,4146,Air India-Singapore Airlines-Vistara-IndiGo,788-32N-B78X-787-388-321-320
+SIN,Singapore Changi Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,3926,Air India-Singapore Airlines-Vistara-IndiGo,32N-359-388-321-32Q-32N
+SIN,Singapore Changi Airport,FRA,Frankfurt Airport,10292,Singapore Airlines-Lufthansa,B77W-77W-B748-74H-A359-359
+SIN,Singapore Changi Airport,MUC,Munich Airport,10070,Singapore Airlines-Lufthansa,A359-359
+SIN,Singapore Changi Airport,CDG,Charles de Gaulle Airport,10736,Air France-Singapore Airlines,359-B77W-77W-A359
+SIN,Singapore Changi Airport,SYD,Sydney Airport,6300,Qantas-Scoot-British Airways-Singapore Airlines-Emirates,388-B789-789-332-333-77W-A388-A359-359-77X-74Y-74F
+JED,King Abdulaziz International Airport,DOH,Hamad International Airport,1332,Saudia-Flynas-Qatar Airways,320-A320-A20N-32N-A359-359-789-A333-77W-788-77L
+JED,King Abdulaziz International Airport,MNL,Ninoy Aquino International Airport,8605,Saudia,789
+JED,King Abdulaziz International Airport,AMS,Amsterdam Airport Schiphol,4501,Saudia,789-74Y-77F-787
+JED,King Abdulaziz International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,3366,Saudia-Wizz Air,A320-320-32Q
+JED,King Abdulaziz International Airport,CGK,Soekarno–Hatta International Airport,7980,Lion Air-Garuda Indonesia-Saudia,330-33-339-A339-773-B77W-777
+JED,King Abdulaziz International Airport,DEL,Indira Gandhi International Airport,3884,IndiGo-Air India-Saudia,32Q-321-32N-773
+JED,King Abdulaziz International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,3523,IndiGo-SpiceJet-Air India-Air India xpress-Saudia-Vistara,A21N-32Q-321-7M8-A20N-32N-738-333-320
+JED,King Abdulaziz International Airport,FRA,Frankfurt Airport,4137,Saudia,A21N-321
+JED,King Abdulaziz International Airport,MUC,Munich Airport,3837,Saudia,A320-320
+JED,King Abdulaziz International Airport,CDG,Charles de Gaulle Airport,4432,Saudia,B789-789
+DOH,Hamad International Airport,MNL,Ninoy Aquino International Airport,7291,Philippine Airlines-Qatar Airways,333-77W
+DOH,Hamad International Airport,AMS,Amsterdam Airport Schiphol,4929,Qatar Airways,B77W-77W-77X-B77L
+DOH,Hamad International Airport,HND,Tokyo Haneda Airport,8264,Qatar Airways,77W
+DOH,Hamad International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,4042,Qatar Airways,B77W-789-A359-359-351-788
+DOH,Hamad International Airport,CGK,Soekarno–Hatta International Airport,6901,Qatar Airways,777-77W-359-B77W
+DOH,Hamad International Airport,DEL,Indira Gandhi International Airport,2552,Air India-Qatar Airways-IndiGo,321-332-359-32N-77X
+DOH,Hamad International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,2294,IndiGo-Air India-Qatar Airways,32Q-321-32N-77W-77X
+DOH,Hamad International Airport,FRA,Frankfurt Airport,4594,Qatar Airways,B77W-351-77W-B788-788-B77L-77X-B744-74Y
+DOH,Hamad International Airport,MUC,Munich Airport,4307,Qatar Airways,A359-359-77X
+DOH,Hamad International Airport,CDG,Charles de Gaulle Airport,4974,Qatar Airways,A359-77W-359-351-B77W-77X-74Y-B77L
+DOH,Hamad International Airport,SYD,Sydney Airport,12389,Qatar Airways,A388-388-77X
+DOH,Hamad International Airport,GRU,São Paulo/Guarulhos International Airport,11871,Qatar Airways,B77W-77L-77W-B77L
+MNL,Ninoy Aquino International Airport,HND,Tokyo Haneda Airport,2999,Jet Linx Aviation-All Nippon Airways-United Airlines,788-789-321
+MNL,Ninoy Aquino International Airport,CGK,Soekarno–Hatta International Airport,2791,Cebu Pacific-Philippine Airlines,32N-321
+AMS,Amsterdam Airport Schiphol,MEX,Mexico City International Airport,9217,Aeromexico-KLM,B788-788-B789-789
+AMS,Amsterdam Airport Schiphol,FCO,Leonardo da Vinci–Fiumicino Airport,1298,ITA Airways,A20N-32N-A320-320-32S-319-B738-73J-73H
+AMS,Amsterdam Airport Schiphol,CGK,Soekarno–Hatta International Airport,11366,Garuda Indonesia,77W-777
+AMS,Amsterdam Airport Schiphol,DEL,Indira Gandhi International Airport,6371,Air India-KLM,788-781
+AMS,Amsterdam Airport Schiphol,BOM,Chhatrapati Shivaji Maharaj International Airport,6867,KLM-China Airlines-Singapore Airlines,333-74Y-332
+AMS,Amsterdam Airport Schiphol,FRA,Frankfurt Airport,366,Korean Air-Lufthansa-Cathay Pacific-Emirates-KLM-LATAM Cargo,74N-A320-32N-320-32A-A321-321-CRJ9-CR9-A319-319-E190-E75-E90-E295-E7W-76F
+AMS,Amsterdam Airport Schiphol,MUC,Munich Airport,665,KLM-Lufthansa,E75L-295-73H-E190-E90-B737-73W-CR9-CRJ9-A320-32A-A319-319
+AMS,Amsterdam Airport Schiphol,CDG,Charles de Gaulle Airport,399,Air France-KLM,320-32A-223-A321-321-318-BCS3-223-319-A319-B738-73H-7S7-73J
+AMS,Amsterdam Airport Schiphol,ORY,Orly Airport,433,Transavia,73H
+AMS,Amsterdam Airport Schiphol,BOG,El Dorado International Airport,8850,KLM,B789-789
+AMS,Amsterdam Airport Schiphol,GRU,São Paulo/Guarulhos International Airport,9785,KLM,B77W-77W
+AMS,Amsterdam Airport Schiphol,YYZ,Toronto Pearson International Airport,5996,Air Canada-KLM-Air Transat,77L-333-772-77W-781-789-32Q
+MEX,Mexico City International Airport,CUN,Cancún International Airport,1286,Aeromexico-Turkish Airlines-Volaris-VivaAerobus,B37M-7M9-B38M-7M8-7S8-7M7-B37M-B738-738-789-77W-B773-A21N-32N-32Q-A320-321-A321-32B
+MEX,Mexico City International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,10234,Aeromexico,B788-788
+MEX,Mexico City International Airport,FRA,Frankfurt Airport,9561,Lufthansa,B748-748
+MEX,Mexico City International Airport,MUC,Munich Airport,9856,Lufthansa,A359-359
+MEX,Mexico City International Airport,CDG,Charles de Gaulle Airport,9210,Aeromexico-Air France,B789-789-B77W-77W
+MEX,Mexico City International Airport,BOG,El Dorado International Airport,3163,Avianca-Aeromexico-VivaAerobus-Volaris-Ethiopian Airlines-mas,A320-320-A20N-B38M-7M8-32N-777-77X
+MEX,Mexico City International Airport,YYZ,Toronto Pearson International Airport,3251,Air Canada-Aeromexico,B38M-7M8-7M9
+MEX,Mexico City International Airport,GRU,São Paulo/Guarulhos International Airport,7441,Aeromexico-LATAM Airlines,B788-789-B763-763
+CUN,Cancún International Airport,FCO,Leonardo da Vinci–Fiumicino Airport,9194,Neos,787
+CUN,Cancún International Airport,FRA,Frankfurt Airport,8615,Discover Airlines-Condor,332-333-A339-339
+CUN,Cancún International Airport,CDG,Charles de Gaulle Airport,8228,Air France,B772-772
+CUN,Cancún International Airport,BOG,El Dorado International Airport,2281,Avianca-VivaAerobus-Volaris-Wingo,A320-320-A20N-32N-738
+CUN,Cancún International Airport,YYZ,Toronto Pearson International Airport,2609,jetlines-Air Transat-Sunwing Airlines-Swoop-Air Canada-WestJet,A320-32A-321-73H-7S8-321-320-A321-7M8-73W
+HND,Tokyo Haneda Airport,FCO,Leonardo da Vinci–Fiumicino Airport,9903,ITA Airways,A359-359
+HND,Tokyo Haneda Airport,CGK,Soekarno–Hatta International Airport,5790,Garuda Indonesia-All Nippon Airways,333-789-788
+HND,Tokyo Haneda Airport,DEL,Indira Gandhi International Airport,5866,Jet Linx Aviation-All Nippon Airways,789
+HND,Tokyo Haneda Airport,FRA,Frankfurt Airport,9372,Lufthansa-All Nippon Airways,B748-74H-B789-789
+HND,Tokyo Haneda Airport,MUC,Munich Airport,9369,Lufthansa-All Nippon Airways,A359-359-B789-789
+HND,Tokyo Haneda Airport,CDG,Charles de Gaulle Airport,9717,Jet Linx Aviation-Air France-All Nippon Airways,B77W-773-77W-789
+HND,Tokyo Haneda Airport,YYZ,Toronto Pearson International Airport,10357,Air Canada,788
+HND,Tokyo Haneda Airport,SYD,Sydney Airport,7827,Jet Linx Aviation-Qantas-All Nippon Airways,789-333
+FCO,Leonardo da Vinci–Fiumicino Airport,DEL,Indira Gandhi International Airport,3427,Iran Air,313
+FCO,Leonardo da Vinci–Fiumicino Airport,FRA,Frankfurt Airport,960,ITA Airways-Lufthansa,319-320-A320-32S-320-A321-321-32A-32Q-A20N
+FCO,Leonardo da Vinci–Fiumicino Airport,MUC,Munich Airport,730,ITA Airways-Lufthansa,A319-319-320-32S-A321-321-32V-32A-32N
+FCO,Leonardo da Vinci–Fiumicino Airport,CDG,Charles de Gaulle Airport,1102,ITA Airways-ASL Airlines Belgium-Air France,A20N-32N-A319-319-320-73K-A321-321-BCS3-223-32A
+FCO,Leonardo da Vinci–Fiumicino Airport,ORY,Orly Airport,1090,Transavia France-easyJet-Vueling-Wizz Air,73H-B738-A320-320-32B-32Q-A21N
+FCO,Leonardo da Vinci–Fiumicino Airport,YYZ,Toronto Pearson International Airport,7094,Air Canada-Air Transat,77W-332-333
+FCO,Leonardo da Vinci–Fiumicino Airport,GRU,São Paulo/Guarulhos International Airport,9444,ITA Airways-LATAM Airlines,A332-339-330-773
+CGK,Soekarno–Hatta International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,4648,IndiGo,32N-320
+CGK,Soekarno–Hatta International Airport,SYD,Sydney Airport,5525,Qantas-Garuda Indonesia,332-333
+DEL,Indira Gandhi International Airport,BOM,Chhatrapati Shivaji Maharaj International Airport,1140,IndiGo-Air India-Bluebird Airways-Go First-Spicejet-Vistara-Styarlight Airlines,32Q-321-77W-320-32N-319-77L-757-75C-32A-737-7M8-32Q
+DEL,Indira Gandhi International Airport,FRA,Frankfurt Airport,6128,Cathay Pacific-Vistara-Air India-Lufthansa,74N-B789-789-B788-788-B748-744
+DEL,Indira Gandhi International Airport,MUC,Munich Airport,5906,Lufthansa,A359-359
+DEL,Indira Gandhi International Airport,CDG,Charles de Gaulle Airport,6572,Cathay Pacific-Vistara-Air France-Air India,74N-B789-789-A332-332-B788-788
+DEL,Indira Gandhi International Airport,YYZ,Toronto Pearson International Airport,11652,Air Canada-Air India,B77L-777-788-77W
+DEL,Indira Gandhi International Airport,SYD,Sydney Airport,10447,Air India,788
+BOM,Chhatrapati Shivaji Maharaj International Airport,FRA,Frankfurt Airport,6577,Cathay Pacific-Air Antiller-Lufthansa,B748-74N-B77L-A343-343
+BOM,Chhatrapati Shivaji Maharaj International Airport,MUC,Munich Airport,6319,Lufthansa,A359-359
+BOM,Chhatrapati Shivaji Maharaj International Airport,CDG,Charles de Gaulle Airport,7001,Air France-FedEx,B77W-77W-A332-B77L
+FRA,Frankfurt Airport,MUC,Munich Airport,301,Lufthansa-Mango,A320-321-32A-320-E190-320-32N-CR9-A321-32Q-LJ55
+FRA,Frankfurt Airport,CDG,Charles de Gaulle Airport,448,Cathay Pacific-Air France-Lufthansa,74N-E190-E90-E70-E170-A320-32A-320-A319-321
+FRA,Frankfurt Airport,BOG,El Dorado International Airport,9096,Lufthansa,A346-346
+FRA,Frankfurt Airport,YYZ,Toronto Pearson International Airport,6349,Air Canada-Lufthansa-Condor,789-788-744-747-763-76F-332-339
+FRA,Frankfurt Airport,GRU,São Paulo/Guarulhos International Airport,9808,Lufthansa-LATAM Airlines,74H-B77W-773-77X
+MUC,Munich Airport,CDG,Charles de Gaulle Airport,682,ASL Airlines France-Air France-Lufthansa,73K-A318-223-318-BCS3-32A-320-A319-319-A321-E90-CRJ9-32A-A320
+MUC,Munich Airport,ORY,Orly Airport,694,Air Dolomiti,E195-E95
+MUC,Munich Airport,YYZ,Toronto Pearson International Airport,6648,Air Canada-Lufthansa,333-359
+CDG,Charles de Gaulle Airport,ORY,Orly Airport,35,Transavia France,A320
+CDG,Charles de Gaulle Airport,BOG,El Dorado International Airport,8654,Air France,A359-359
+CDG,Charles de Gaulle Airport,YYZ,Toronto Pearson International Airport,6027,Air France-Air Canada-Air Transat,77W-772-B789-789-32Q-332
+CDG,Charles de Gaulle Airport,GRU,São Paulo/Guarulhos International Airport,9415,Air France-LATAM Airlines,A359-359-77W-B788-789-788
+BOG,El Dorado International Airport,YYZ,Toronto Pearson International Airport,4340,Avianca-LATAM Airlines,788-320-32N-A20N
+BOG,El Dorado International Airport,GRU,São Paulo/Guarulhos International Airport,4372,Air Canada-Avianca,333-A20N-32N-320
+YYZ,Toronto Pearson International Airport,GRU,São Paulo/Guarulhos International Airport,8203,Air Canada,788-789
