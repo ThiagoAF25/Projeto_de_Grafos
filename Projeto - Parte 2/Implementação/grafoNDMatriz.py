@@ -52,7 +52,7 @@ class GrafoND:
         print("Aresta removida!")
 
   def dijkstra(self, inicio):
-    if self.bloqueios[self.mapa[sigla][0]] == 0:
+    if self.bloqueios[self.mapa[inicio][0]] == 0:
       #print(self.mapa)
       #print(self.adj)
       distanciaVoo = [float('inf') for i in range(self.n)]
