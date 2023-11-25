@@ -165,12 +165,14 @@ class GrafoND:
     return bool
 
   def addBloqueio(self, s):
-    self.bloqueios[self.mapa[s][0]] = 1
-    print(f"Bloqueio para {s} adicionado com sucesso!")
+    if s in self.mapa:
+      self.bloqueios[self.mapa[s][0]] = 1
+      print(f"Bloqueio para {s} adicionado com sucesso!")
 
   def removeBloqueio(self, s):
-    self.bloqueios[self.mapa[s][0]] = 0
-    print(f"Bloqueio para {s} removido com sucesso!")
+    if s in self.mapa:
+      self.bloqueios[self.mapa[s][0]] = 0
+      print(f"Bloqueio para {s} removido com sucesso!")
 
   def ConexoesAeroportos (self):
     for key in self.mapa.keys():
