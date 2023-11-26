@@ -1,11 +1,3 @@
-'''
-Membros do grupo:
-Leonardo Pinheiro de Souza      -   32127391
-Lucas Paulo da Rocha            -   32196628
-Luiz Octavio Tassinari Saraiva  -   32030411
-Thiago Aidar Figueiredo         -   32144547
-'''
-
 from grafoNDMatriz import GrafoND
 import pandas as pd
 import numpy as np
@@ -88,7 +80,7 @@ def menu():
   resp = 0
   tipo = 0
   while(resp != 15):
-    print('\n\n')
+    print('\n')
     print("\n-------------- GRAFO PRINCIPAIS ROTAS AEREAS INTERNACIONAIS --------------\n")
     print("1 - Ler dados do arquivo grafo.txt .")
     print("2 - Gravar dados no arquivo grafo.txt .")
@@ -152,7 +144,8 @@ def menu():
         else:
           print("Desconexo")
       case 10:
-        g1.dijkstra("GRU")
+        nome = input("Sigla do aeroporto: ").strip().upper()
+        g1.dijkstra(nome)
       case 11:
         g1.addBloqueio(input("Sigla do aeroporto a ser bloqueado:"))
       case 12:
