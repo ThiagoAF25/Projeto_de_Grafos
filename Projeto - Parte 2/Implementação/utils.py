@@ -102,7 +102,7 @@ def menu():
     print("10 - Caminho Minimo por Dijkstra.")
     print("11 - Adicionar Bloqueio.")
     print("12 - Remover Bloqueio.")
-    print("13 - Verificar Grau do vertices.")
+    print("13 - Verificar Grau dos vertices.")
     print("14 - Coloracao por Classe dos vertices.")
     print("15 - Encerrar a aplicação.")
     resp = int(input("/> ").strip())
